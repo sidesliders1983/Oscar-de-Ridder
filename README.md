@@ -40,4 +40,4 @@ Lees bij iedere nieuwe sessie eerst [AGENTS.md](AGENTS.md), deze README en alle 
 
 Werkvolgorde: story canon → spreadspec → referenties → prompt → concept → menselijke review → revisie → goedgekeurd artwork → productie-export.
 
-Codex mag structuur, specificaties en concepten binnen goedgekeurde uitgangspunten voorbereiden. Codex mag geen ontbrekende canon invullen, referenties vervangen, beelden zelf goedkeuren of boek 1/2 herontwerpen. Bij ontbrekende creatieve informatie: `CANON QUESTION`; vraag de auteur vóór afhankelijke productie. Deze inrichting bevat nog geen ingevulde spreads of geïmporteerde beeldreferenties.
+Codex mag structuur, specificaties en concepten binnen goedgekeurde uitgangspunten voorbereiden. Codex mag geen ontbrekende canon invullen, referenties vervangen, beelden zelf goedkeuren of boek 1/2 herontwerpen. Bij ontbrekende creatieve informatie: `CANON QUESTION`; vraag de auteur vóór afhankelijke productie. Er zijn nog geen ingevulde spreads. De aangeleverde beelden zijn geregistreerd in [de assetinventaris](references/asset-inventory.csv); het characterregister wijst de expliciet goedgekeurde actieve sheets aan.

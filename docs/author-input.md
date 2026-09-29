@@ -1,28 +1,30 @@
-# Nog benodigde input
+# Auteursinput en open punten
 
-Alle onderstaande punten zijn TODO / OPEN QUESTION. Deze inventarisatie maakt geen nieuwe canon.
+## Ontvangen en geregistreerd
 
-## Aan te leveren bronnen
+- Zes historische boek-2-uploads en vier boek-3-coverconcepten: [volledige inventaris](../references/asset-inventory.csv), met herkomst, bestemming, versie, status, doel en SHA-256.
+- Actieve sheets voor Oscar/Philijne (Foto 3), Elke en de overige gelabelde personages op Foto 5, en de gorillafamilie (Foto 2). Zie [register](../references/characters/README.md) en [expliciet auteursbesluit](../canon/characters/2026-09-29-reference-decision.md).
+- Bella is door de auteur bevestigd als het koe-paard; haar identiteitsvraag is opgelost.
+- Oscar 6 jaar, Elke twee jaar jonger. Historische 10–12-labels en houten zwaard zijn expliciet uitgesloten. Philijnes paarse jurk en Elkes tuinbroek zijn door de actieve sheetselectie leidend.
+- Coverconcepten, draakrichting, berg/kasteelsfeer en conceptflaptekst beschikbaar; nog geen definitief goedgekeurde cover of draaksheet.
 
-- Definitieve character sheets voor Oscar, Philijne, Elke, Patrick, de draak, Bella en eventuele andere terugkerende personages, met versies en bewijs van goedkeuring.
-- Definitieve referenties van Oscars uitrusting en het koe-paard; de vaste groene schilddraak en Philijnes jurk moeten visueel eenduidig worden aangeleverd.
-- Boek 1 en 2 met definitieve tekst, artwork/uitgaven en relevante paginaverwijzingen; in het bijzonder het einde van boek 2 en de berg/vulkaan.
-- Goedgekeurde locatie- en stijlreferenties; goedgekeurde covercompositie en typografische hiërarchie.
-- Drukkersspecificaties: bleed, veilige marges, gewenste resolutie, kleurprofiel, exportformaat en omslagvereisten.
+## Nog nodig
 
-## CANON QUESTION — auteursbesluiten nodig vóór afhankelijke productie
+- Definitieve sheet/goedkeuring voor Patrick en de draak. Patrick is zichtbaar en gelabeld in historische Foto 6; die bron is nog niet als actieve sheet aangewezen. Papa Jildo heeft eveneens alleen een historische ensembleweergave, indien hij later nodig blijkt.
+- Eenduidige goedgekeurde detailreferenties voor Oscars uitrusting, waaronder de vaste schilddraak. Ensemble- en coverbeelden tonen voorbeelden, maar vormen geen zelfstandig goedgekeurde objectsheets.
+- Boek 1 en 2: definitieve tekst, volledige uitgaven/artwork, editiegegevens en paginaverwijzingen. Het einde van boek 2 en de berg/vulkaan ontbreken nog als specifieke continuïteitsbron.
+- Definitieve locatie- en stijlreferenties. Goedgekeurde coverversie en typografische hiërarchie expliciet aanwijzen; aangeleverde covers zijn concepten. De beschreven laag gefilmde climaxcompositie is niet als afzonderlijk goedgekeurd bronbeeld geleverd.
+- Drukkersspecificaties: bleed, veilige marges, resolutie, kleurprofiel, exportformaat en omslag/rugvereisten.
+- Oorspronkelijke prompts, modelinstellingen en versiegeschiedenis van de aangeleverde beelden, voor zover beschikbaar; deze zijn momenteel onbekend.
 
-- De bestaande verhaalcanon laat vertrekreden, exact Patrick/appelflapmoment, route/tussenmomenten, wakker maken van de draak, beschuldigingsdialoog, slot, spreadaantal en spreadtekst open. Bevestig deze afzonderlijk; het appelflapmoment is nog niet definitief.
-- Bella wordt in issue #1 genoemd maar niet geïdentificeerd in de huidige canon. Wie is Bella en welke referentie hoort erbij? Neem niet aan dat Bella het koe-paard is.
-- Definitieve uiterlijke details van Elke en Patrick, Philijnes jurk en de genoemde sheets ontbreken. De tekstuele beschrijvingen vervangen geen definitieve visuele referenties.
-- Cover en eerdere climaxcompositie worden beschreven, maar de genoemde goedgekeurde beelden zijn nog niet geïmporteerd. Welke exacte bestanden/versies zijn leidend?
+## CANON QUESTION vóór afhankelijke productie
 
-Er is geen expliciete tegenspraak tussen de huidige canonbestanden vastgesteld. Ontbrekende bronnen zijn geen toestemming om details te reconstrueren.
+De bestaande verhaalcanon laat vertrekreden, Patrick/appelflapmoment, route/tussenmomenten, wakker maken, beschuldigingsdialoog, slot, spreadaantal en tekst open. Deze blijven auteursbesluiten. Coverflaptekst verandert deze canon niet.
 
-## Voorgestelde vervolgtaken
+## Volgende taken
 
-1. Definitieve referenties en boek 1/2 importeren, herkomst/goedkeuring vastleggen en characterregister activeren.
-2. Open verhaalvragen met de auteur beslissen en expliciet vastleggen.
-3. Spreadaantal en storyboard vaststellen en de eerste spreadspec invullen.
-4. Eén pilotillustratie met vaste referenties genereren, reviewen en itereren.
-5. Drukkersspecificaties bevestigen en met een goedgekeurd asset een productie-export controleren.
+1. Ontbrekende definitieve sheets, objectsheets en eerdere-boekbronnen aanvullen.
+2. Open verhaalvragen met de auteur vastleggen.
+3. Spreadaantal/storyboard vaststellen en eerste spreadspec maken.
+4. Pilotillustratie met de actieve referenties reviewen.
+5. Drukspecificaties bevestigen en een export controleren.

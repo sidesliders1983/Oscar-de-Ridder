@@ -55,7 +55,7 @@ Bovenste circa 2/3 bevat het belangrijkste illustratiemoment.
 
 ## Karakterweergave
 
-Oscar: 6 jaar, donkerblond haar, slank, grote nieuwsgierige ogen, vriendelijk, hoofd iets groter dan realistische proporties. Nooit ouder laten lijken.
+Oscar: 6 jaar, donkerblond haar, slank, grote nieuwsgierige ogen, vriendelijk, hoofd iets groter dan realistische proporties. Nooit ouder laten lijken dan 6. Elke is twee jaar jonger dan Oscar (4 jaar).
 
 Philijne: ongeveer even oud als Oscar; vriendelijk, nieuwsgierig, speels; geen romantische uitstraling.
 
