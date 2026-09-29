@@ -26,7 +26,7 @@ De beelden bieden conceptuele aanknopingspunten voor compositie, titelhiërarchi
 
 - Foto 2/3 tonen een houten zwaard; de huidige canon vereist een herkenbare gouden saxofoon als zwaard. Deze afwijking blijft in de originele concepten zichtbaar, maar vervangt de objectcanon niet.
 - Oscar draagt hier geen vissenkomhelm. De vereiste uitrusting moet bij een concrete scène tegen de canon worden gecontroleerd; geen nieuwe uitzondering afgeleid.
-- Leeftijdsuitstraling toetsen aan het expliciete auteursbesluit: Oscar circa 6–7 jaar, Elke twee jaar jonger.
+- Leeftijdsuitstraling toetsen aan het expliciete auteursbesluit: Oscar 6 jaar, Elke twee jaar jonger.
 - Stijl, detaillering en draakexpressie bij uitwerking toetsen aan canon/visual-style.md en de doelgroep 4–8 jaar.
 - Flaptekst is concepttekst, geen nieuwe verhaalcanon. CANON QUESTION vóór definitieve omslagproductie: welke versie van covercompositie, typografie en flaptekst keurt de auteur goed? De canon noemt een eerder goedgekeurde cover; deze upload wijst geen van deze concepten expliciet als die versie aan.
 - De omslag is geen binnenillustratie: spreadregels voor het onderste tekstgebied worden hier niet automatisch toegepast. Definitieve omslagmaat, rugbreedte, bleed en drukresolutie vereisen nog drukkersspecificaties.

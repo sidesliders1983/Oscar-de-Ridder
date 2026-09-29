@@ -44,7 +44,7 @@ Professioneel prentenboek voor kinderen van 4–8 jaar. Iedere spread moet zonde
 
 ## 5. Oscar — vaste canon
 
-Oscar is ongeveer 6–7 jaar, slank, donkerblond haar, relatief groot hoofd en grote nieuwsgierige ogen, vriendelijke uitstraling. Hij moet binnen deze leeftijdsuitstraling blijven. Elke is twee jaar jonger dan Oscar (ongeveer 4–5 jaar).
+Oscar is 6 jaar, slank, donkerblond haar, relatief groot hoofd en grote nieuwsgierige ogen, vriendelijke uitstraling. Hij mag nooit ouder lijken dan 6. Elke is twee jaar jonger dan Oscar (4 jaar).
 
 Basis: rode tuniek, blauwe broek, bruine laarsjes.
 

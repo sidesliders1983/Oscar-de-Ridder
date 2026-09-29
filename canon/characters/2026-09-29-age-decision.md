@@ -1,18 +1,19 @@
-# Auteursbesluit — leeftijden, 29 september 2026
+# Leeftijdscanon en interpretatie van referenties
 
-Status: CANON voor de hieronder expliciet bevestigde leeftijden.
+Status: CANON voor Oscar 6 jaar en Elke 4 jaar. Bijgewerkt naar aanleiding van de [review op PR #4](https://github.com/sidesliders1983/Oscar-de-Ridder/pull/4#pullrequestreview-5354703170), 29 september 2026.
 
-Bron: antwoord van de auteur in deze chat op de canonvraag bij de zes referentiebeelden:
+De bestaande seriecanon blijft ongewijzigd: Oscar is **6 jaar en mag nooit ouder lijken dan 6**. De auteur bevestigde dat Elke twee jaar jonger is; daarmee is zij **4 jaar**. Philijne blijft ongeveer even oud als Oscar volgens AGENTS.md.
+
+## Oorspronkelijke bron en correctie
+
+De auteur schreef bij de referentie-import:
 
 > Oscar moet 6/7 jaar ongeveer zijn/blijven en Elke 2 jaar jonger. Qua kleding is het goed
 
-- Oscar blijft ongeveer 6–7 jaar.
-- Elke is twee jaar jonger: ongeveer 4–5 jaar.
-- AGENTS.md en canon/visual-style.md zijn bewust op dit besluit aangepast. De oude 10–12-jaarlabels in de geïmporteerde beelden zijn voor boek 3 niet leidend; originele bronbeelden blijven intact.
-- De bestaande regel dat Philijne ongeveer even oud is als Oscar blijft gelden.
-- De auteur vindt de kleding goed. Het antwoord kiest geen afzonderlijke outfit uit de paarse/roze jurken van Philijne of de tuinbroek/blauwe jurk van Elke. Geen variant is hiermee als enige actieve sheet aangewezen. Bij een concrete illustratie blijft die keuze een CANON QUESTION.
-- Geen wijziging van de bestaande saxofoon-zwaardcanon bevestigd of toegepast.
+De formulering “6/7” wordt uitsluitend als context voor de interpretatie van de aangeleverde visuele referenties bewaard, niet als wijziging van de harde canonleeftijd of toestemming Oscar ouder dan zes weer te geven. De eerdere omzetting naar een leeftijdsbereik was te ruim en is op verzoek van de reviewer hersteld.
 
-Dit besluit wijzigt geen verhaalgebeurtenissen en keurt geen nieuw artwork goed.
+De oudere boek-2-sheets blijven bruikbaar voor de expliciet gekozen ontwerpdetails, maar hun 10–12-labels en oudere leeftijdsproporties zijn niet leidend. Bij nieuwe illustraties moet Oscar herkenbaar zes blijven; de bronbeelden zelf blijven intact.
 
-Latere aanvulling: de outfitkeuze is inmiddels expliciet opgelost via het [referentiebesluit](2026-09-29-reference-decision.md).
+## Afbakening
+
+De outfitselectie is vastgelegd in het [referentiebesluit](2026-09-29-reference-decision.md). De bestaande saxofoon-zwaardcanon blijft gelden. Deze correctie verandert geen verhaalgebeurtenissen, actieve sheetselectie of artworkgoedkeuring.

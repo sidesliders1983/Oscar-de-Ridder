@@ -41,7 +41,7 @@ SHA-256 van iedere kopie is gecontroleerd tegen de oorspronkelijke upload. Foto 
 
 ## Bevestiging na import
 
-De auteur heeft de leeftijdsvraag beantwoord: Oscar circa 6–7 jaar, Elke twee jaar jonger. Zie [het vastgelegde besluit](../../../../canon/characters/2026-09-29-age-decision.md). De vraag hierboven over leeftijd is daarmee opgelost; 10–12 jaar is niet leidend. Kleding is in algemene zin akkoord, maar er is geen exclusieve outfitvariant geselecteerd. Overige open punten blijven als zodanig geregistreerd.
+De auteur heeft de leeftijdsvraag beantwoord: Oscar 6 jaar, Elke twee jaar jonger. Zie [het vastgelegde besluit](../../../../canon/characters/2026-09-29-age-decision.md). De vraag hierboven over leeftijd is daarmee opgelost; 10–12 jaar is niet leidend. Kleding is in algemene zin akkoord, maar er is geen exclusieve outfitvariant geselecteerd. Overige open punten blijven als zodanig geregistreerd.
 
 ## Definitieve selectie bij issue #3
 

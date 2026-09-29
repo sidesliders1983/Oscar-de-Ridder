@@ -16,7 +16,7 @@ Daarmee geldt:
 - Foto 5: Elke, Bella, Koning, Koningin, Elsa, Pake Jasper, Mama Silvie, Oom Roel en Opa Wilbert. Hun gelabelde hoofdweergaven zijn leidend; kleine groepsvignetten zijn geen alternatieve actieve sheets.
 - Foto 2: Henk Barry, Koko, Zara, Mosi en Tamu.
 - Bella is het koe-paard voor boek 3. Dit bevestigt identiteit en ontwerp, geen nieuwe verhaalgebeurtenis.
-- Oscar blijft circa 6–7 jaar en Elke twee jaar jonger, volgens het eerdere [leeftijdsbesluit](2026-09-29-age-decision.md). De 10–12-labels en oudere proporties zijn niet leidend voor de leeftijdsuitstraling in boek 3.
+- Oscar blijft 6 jaar en Elke twee jaar jonger, volgens het eerdere [leeftijdsbesluit](2026-09-29-age-decision.md). De 10–12-labels en oudere proporties zijn niet leidend voor de leeftijdsuitstraling in boek 3.
 - Het houten zwaard op Foto 3 is uitgesloten. De canonieke saxofoon en overige bestaande uitrustingsregels blijven gelden.
 - Philijnes paarse hoofdweergave in Foto 3 en Elkes tuinbroek in Foto 5 zijn leidend. Het eerdere algemene kledingakkoord blijft historisch geregistreerd; deze latere selectie bepaalt de actieve referenties.
 - Patrick, de draak en Papa Jildo krijgen door dit besluit geen definitieve sheet. Boek-3-covers blijven CONCEPT; geen compositie, flaptekst of artworkversie is hiermee goedgekeurd.

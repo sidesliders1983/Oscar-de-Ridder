@@ -5,7 +5,7 @@
 - Zes historische boek-2-uploads en vier boek-3-coverconcepten: [volledige inventaris](../references/asset-inventory.csv), met herkomst, bestemming, versie, status, doel en SHA-256.
 - Actieve sheets voor Oscar/Philijne (Foto 3), Elke en de overige gelabelde personages op Foto 5, en de gorillafamilie (Foto 2). Zie [register](../references/characters/README.md) en [expliciet auteursbesluit](../canon/characters/2026-09-29-reference-decision.md).
 - Bella is door de auteur bevestigd als het koe-paard; haar identiteitsvraag is opgelost.
-- Oscar circa 6–7 jaar, Elke twee jaar jonger. Historische 10–12-labels en houten zwaard zijn expliciet uitgesloten. Philijnes paarse jurk en Elkes tuinbroek zijn door de actieve sheetselectie leidend.
+- Oscar 6 jaar, Elke twee jaar jonger. Historische 10–12-labels en houten zwaard zijn expliciet uitgesloten. Philijnes paarse jurk en Elkes tuinbroek zijn door de actieve sheetselectie leidend.
 - Coverconcepten, draakrichting, berg/kasteelsfeer en conceptflaptekst beschikbaar; nog geen definitief goedgekeurde cover of draaksheet.
 
 ## Nog nodig
