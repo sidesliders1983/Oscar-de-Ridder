@@ -1,0 +1,22 @@
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+~$*
+
+# Temporary generation/render output; selected assets belong in documented folders
+tmp/
+temp/
+renders/
+.cache/
+__pycache__/
+*.tmp
+*.log
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
