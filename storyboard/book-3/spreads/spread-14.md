@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+GRAAAAAAUW! uit de poort; Patrick verborgen. Alleen de draak denkt dat binnen een grotere draak zit.
+
+Nieuw concept: [board-13-16-v006.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Een enorm gebulder klinkt vanuit de donkere poortdoorgang; de draak deinst buiten terug. De kinderen staan net binnen; Patrick is achter de poort uit zicht.
 
 **Camera:** Vanaf buiten schuin naar doorgang; draak groot naast poort, geluid visueel vanuit binnen, geen tweede draak of drakenschaduw.
 
 **Expressies:** Draak verbluft bang; kinderen verbaasd.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -59,9 +67,9 @@ De draak bleef stokstijf staan.
 
 **Rechts**
 
-‘Een… een grotere draak?’\
-Hij deed een stap achteruit.\
-En nog één.\
+‘Woont hier, een … een draak!?’\
+‘Ik ben doodsbang voor draken!’\
+Hij deed snel een stap achteruit. En nog één.\
 Voor geen goud ging hij die poort door.
 
 ## Afbakening

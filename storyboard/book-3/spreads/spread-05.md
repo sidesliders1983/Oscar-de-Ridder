@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Grot zichtbaar verder op het pad; Patrick kijkt vanonder een blad de kinderen na.
+
+Nieuw concept: [board-05-08-v005.png](../../../artwork/book-3/concepts/storyboard/board-05-08-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onder die bladeren.
 
 **Camera:** Schuin van opzij; doorkijk naar berg bovenin; één duidelijke bewegingsrichting.
@@ -49,22 +57,23 @@ Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onde
 
 **Dramaturgische functie:** Het kleine geluid helpt hen verder.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Ritsel. Ritsel.\
 Verderop bewogen de bladeren.\
-Oscar bleef staan.
+Oscar bleef staan. ‘Daar gaat iets!’\
+Hij wees naar het pad dat door de struiken doorliep.
 
 **Rechts**
 
-‘Daar gaat iets!’\
-Hij wees naar het pad.\
 Ze volgden het geritsel de berg op.\
-Achter een blad stak iets groens uit.
+‘Snel erachter aan! Het kan niet ver meer zijn.\
+Ik denk dat ik verderop een grot zie.’\
+Patrick de Brulkikker keek onder een blad de avonturiers na.
 
 ## Voorstellen ter goedkeuring — V4, V5
 

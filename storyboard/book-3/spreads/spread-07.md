@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Drie kinderen bij de ingang. Draak slaapt op munten en edelstenen; geen extra bekers of schatkistjes in definitieve uitwerking.
+
+Nieuw concept: [board-05-08-v005.png](../../../artwork/book-3/concepts/storyboard/board-05-08-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang.
 
 **Camera:** Wijde blik vanuit ingang; draak bovenste rechterdeel, kinderen links; natuurlijke vloer zonder schat.
@@ -49,23 +57,23 @@ De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang.
 
 **Dramaturgische functie:** Ontlading: hij is koddiger dan verwacht.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Daar lag de draak.\
-Een ronde buik. Korte pootjes.\
-Twee kleine vleugels.\
-En een enorme onderkaak.
+Een ronde dikke buik met schubben,’\
+Vier korte pootjes en twee kleine vleugels.\
+Plus een enorme onderkaak.
 
 **Rechts**
 
 Zijn buik ging op en neer.\
 ‘Het briefje had gelijk,’ fluisterde Philijne.\
 ‘Hij slaapt nog.’\
-Oscar zette heel voorzichtig een stap.
+Voorzichtig zette Oscar een stap de grot in.
 
 ## Voorstellen ter goedkeuring — V6
 

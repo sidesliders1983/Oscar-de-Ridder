@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Expliciete auteurscorrectie: oorspronkelijke gesprekscompositie behouden. Draak links, Oscar spreekt hem rechts aan; Philijne en Elke staan achter Oscar. Alleen munten en juwelen toevoegen. Geen vluchtpose; scène 10 draagt het wegrennen. Het beeld kiest het gesprek uit de langere tekst.
+
+Nieuw concept: [board-09-12-v005.png](../../../artwork/book-3/concepts/storyboard/board-09-12-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de uitgang.
 
 **Camera:** Laag opzij, draak groot maar rond, open daglicht zichtbaar achter kinderen.
@@ -49,22 +57,23 @@ Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de
 
 **Dramaturgische functie:** Misverstand wordt komisch conflict.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 ‘Bent u degene die zo buldert?’ vroeg Oscar.\
-De draak keek hem aan.\
-Toen keek hij naar de saxofoon.
+De draak keek hem slaperig maar vragend aan.\
+‘Ik probeerde te SLAPEN!’\
+Hij kwam brommend overeind.
 
 **Rechts**
 
-‘Ik probeerde te SLAPEN!’\
-Hij kwam brommend overeind.\
 ‘En nu ben ik wakker.’\
-‘Dat zien we,’ piepte Elke.
+‘Dat ruiken we,’ grinnikte Elke, ‘je hebt slaapadem hihi’.\
+Boos kwam de draak overeind. ‘Hoe durven jullie me zo te storen!?’\
+Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen af kwam.
 
 ## Voorstellen ter goedkeuring — V8
 

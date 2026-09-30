@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Kinderen lopen van de afgemeerde Zeebries door de poort het kasteel in; draak achter hen in de haven.
+
+Nieuw concept: [board-13-16-v006.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen rennen van de afgemeerde Zeebries weg, door de open poort het kasteel in. Patrick hipt mee. Achter hen komt de draak aan in de haven; de Zeebries ligt aan de kade.
 
 **Camera:** Vanuit de binnenplaats naar buiten door de poort: kinderen met gezichten zichtbaar naar de camera toe, haven en afgemeerde Zeebries achter hen, draak aankomend in de haven.
 
 **Expressies:** Kinderen buiten adem; draak vasthoudend; Patrick volgt zonder plan.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 

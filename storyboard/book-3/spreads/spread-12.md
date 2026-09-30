@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Kinderen kijken bezorgd naar vliegende draak. Groene draak op het scheepsschild behouden.
+
+Nieuw concept: [board-09-12-v005.png](../../../artwork/book-3/concepts/storyboard/board-09-12-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De Zeebries vaart naar de haven terwijl de dikke draak laag boven het water achter het schip vliegt.
 
 **Camera:** Breed zijaanzicht; eiland achter, herkenbare paleiskust voor; draak en schip beide volledig leesbaar.
 
 **Expressies:** Kinderen verbaasd, Pake alert, draak hijgend brommig.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 

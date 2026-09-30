@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Vier afzonderlijke afdrukken in een vooruitlopend links/rechts-zigzagspoor. Iedere ronde waterplas heeft precies vier kleinere, verspreide watergevulde lobben. Patrick onzichtbaar voor de kinderen.
+
+Nieuw concept: [board-01-04-v006.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen onderzoeken vier afzonderlijke modderafdrukken in een vooruitlopend zigzagpatroon. Patrick is telkens afwisselend links/rechts vooruit gesprongen. Iedere landing laat een volledige afdruk achter met een grote ronde kern en vier kleinere overlappende ronde/ovale lobben, volgens de eerste auteursreferentie. De tweede referentie bepaalt de onderlinge ligging. Ondiep water staat in de modderige indrukken. Elke afdruk kan zowel kikkerafdruk als drakenpoot lijken.
 
 **Camera:** Schuin van boven, zodat de afdruk duidelijk leesbaar is. Patrick blijft door vegetatie afgeschermd van alle kinderen; hij kan hooguit voor de lezer zichtbaar zijn. Geen centrale plons of opeenvolgende sprongbeelden.
@@ -49,22 +57,23 @@ De kinderen onderzoeken vier afzonderlijke modderafdrukken in een vooruitlopend 
 
 **Dramaturgische functie:** Eerste misverstand, eenvoudige visuele grap.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Op het eiland liepen ze tussen de planten.\
-Toen klonk achter hen:\
-PLOENS!
+Toen klonk achter hen: PLOENS!\
+Snel keken ze om zich heen en zagen ze\
+4 grote voetafdrukken in de natte modder staan.
 
 **Rechts**
 
-‘Wat was dat?’ fluisterde Philijne.\
-‘Misschien een drakenpoot,’ zei Oscar.\
-Elke keek naar het water.\
-‘Dan heeft hij nu een natte voet.’
+‘Wat zijn dat?’ fluisterde Philijne.\
+‘Dat zijn afdrukken van een drakenpoot!’ zei Oscar.\
+Elke keek naar het waterlaagje in de modderige voetstappen.\
+‘Dan heeft hij nu vast natte voeten.’, giechelde ze.
 
 ## Voorstellen ter goedkeuring — V4, V5
 

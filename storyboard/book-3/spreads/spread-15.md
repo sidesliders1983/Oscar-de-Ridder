@@ -41,28 +41,36 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Patrick brult met open mond; steentjes trillen. Elke wijst verbaasd naar hem. Geen werkelijke tweede draak.
+
+Nieuw concept: [board-13-16-v006.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen ontdekken Patrick laag bij de binnenkant van de poort, zijn mond net open na het gebulder; de draak is gevlucht.
 
 **Camera:** Op hurkhoogte; warme blik op klein kikkertje en drie verwonderde gezichten; lege doorgang als achtergrond.
 
 **Expressies:** Ongeloof gaat over in lachen; Patrick onschuldig.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
-De draak was ervandoor.\
+De draak ging er snel ervandoor.\
 Voorzichtig keken de kinderen achter de poort.\
 Daar zat geen grotere draak.
 
 **Rechts**
 
 Daar zat Patrick.\
-‘Kwaak.’\
-‘Jíj was het!’ riep Elke.\
-Oscar keek naar dat kleine bekje.
+‘KWWAAAAAAAK.’ Bulderde Patrick de Brulkikker.\
+De grond schudde van het harde geluid.\
+‘Jíj was het!’ riep Elke.
 
 ## Afbakening
 

@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Rustige binnenplaats en vriendelijk afscheid met zachte kwaak.
+
+Nieuw concept: [board-13-16-v006.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Oscar hurkt naast Patrick op de rustige binnenplaats, Philijne en Elke dichtbij.
 
 **Camera:** Rustig mediumbreed, poort op zachte achtergrond; groep boven tekstgebied.
 
 **Expressies:** Warm, opgelucht, vrolijk.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -62,7 +70,7 @@ Oscar hurkte naast Patrick.\
 Patrick knipperde.\
 ‘Kwaak.’\
 ‘Afgesproken,’ zei Elke.\
-‘Maar dan wel een beetje zachter.’
+‘Maar dan wel een beetje zachter alsjeblieft.’
 
 ## Afbakening
 

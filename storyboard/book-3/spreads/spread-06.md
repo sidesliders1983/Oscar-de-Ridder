@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Luisteren bij de grot. Geen echte stofzuiger afbeelden: dit is uitsluitend een grap in de dialoog.
+
+Nieuw concept: [board-05-08-v005.png](../../../artwork/book-3/concepts/storyboard/board-05-08-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter een steen.
 
 **Camera:** Breed driekwartaanzicht vanaf het pad; gezichten uit middenzone, donkere opening rechts met zacht licht.
@@ -49,22 +57,21 @@ De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter e
 
 **Dramaturgische functie:** Rustig moment vóór de ontdekking.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
-Hoog in de bergwand zat een opening.\
-Een grote, donkere opening.\
+Hoog in de bergwand zat een grote donkere opening.\
+Van binnen klonk een diepe ronkend geluid .\
 De kinderen hielden hun adem in.
 
 **Rechts**
 
-Van binnen klonk een diepe zucht.\
-Hrrrrrr.\
+Hrrrrrr. Hrrrrrr.\
 ‘Hier woont iemand,’ fluisterde Elke.\
-‘Iemand met een grote neus.’
+‘…klinkt wel als alsof die aan het stofzuigen is.’ grapte Philijne.
 
 ## Voorstellen ter goedkeuring — V4, V6
 

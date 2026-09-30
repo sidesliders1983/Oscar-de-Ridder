@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Elke houdt haar hand achter haar oor. Saxofoon en schild staan tegen de achterwand; tafel blijft rustiger.
+
+Nieuw concept: [board-01-04-v006.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen kijken vanuit de kamer naar de rokende vulkaan; het oude briefje ligt voor hen.
 
 **Camera:** Schuin achter de kinderen, op hun ooghoogte; het raam en de vulkaan rechts, gezichten links van de vouw.
@@ -49,9 +57,9 @@ De kinderen kijken vanuit de kamer naar de rokende vulkaan; het oude briefje lig
 
 **Dramaturgische functie:** Het gebulder krijgt een bestemming.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -64,7 +72,8 @@ Daar klonk het gebulder weer.
 
 Elke hield haar hand achter haar oor.\
 ‘Slaapt hij dan zo hard?’\
-‘Dat gaan we uitzoeken,’ zei Oscar.
+‘Dat gaan we uitzoeken,’ zei Oscar.\
+‘Ja!! We gaan weer op avontuur!’ Riepen ze alle drie tegelijk.
 
 ## Voorstellen ter goedkeuring — V1
 

@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Vlucht bergaf; kinderen geschrokken en buiten adem. Patrick klein, geen kikker op kinderformaat.
+
+Nieuw concept: [board-09-12-v005.png](../../../artwork/book-3/concepts/storyboard/board-09-12-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen rennen langs de camera bergaf, met Patrick op de voorgrond en de brommige draak achter hen.
 
 **Camera:** Laag, naast de looplijn; aanlegplaats als bestemming in de verte.
 
 **Expressies:** Gehaast en gespannen; draak koddig geïrriteerd.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -60,8 +68,8 @@ Achter hen bonsden drakenpoten.
 **Rechts**
 
 BOEM. BOEM. BOEM.\
-‘Hij heeft korte pootjes!’ hijgde Elke.\
-‘Maar hij gaat wel hard!’ riep Philijne.
+‘Hij heeft gelukkig maar korte pootjes!’ hijgde Elke.\
+‘JA, maar hij gaat wel hard!’ riep Philijne.
 
 ## Afbakening
 

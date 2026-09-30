@@ -1,5 +1,7 @@
 # Boek 3 — conceptstoryboard v002
 
+Actuele beelden en auteurswerktekst: [visueel storyboard v003](visual-storyboard-v003.md) en [voorleestekst v002](voorleestekst-v002.md). De afzonderlijke spreadspecs bevatten deze nieuwe tekst. De historische keuzetabel hieronder wordt aangevuld door de revisiebesluiten bij de spreads.
+
 Status: CONCEPT. Actuele versie; vervangt v001. **16 spreads / 32 verhaalpagina's**, exclusief titelpagina, colofon en omslag; totale drukomvang nog afstemmen. Twee extra spreads geven inschepen en achtervolging op zee ruimte. Spreadtelling en tekst blijven voorstellen.
 
 ## Leesoverzicht
@@ -9,11 +11,11 @@ Status: CONCEPT. Actuele versie; vervangt v001. **16 spreads / 32 verhaalpagina'
 | 1 | [Het briefje bromt na](spreads/spread-01.md) | Kasteelkamer | De kinderen kijken vanuit de kamer naar de rokende vulkaan; het oude briefje ligt voor hen. | V1 |
 | 2 | [Een kruimel voor Patrick](spreads/spread-02.md) | Koninklijke haven | Oscar hurkt bij Patrick en houdt een stukje appelflap voor hem; achter hen ligt De Zeebries klaar. | V2, V3 |
 | 3 | [Naar Drakentand-eiland](spreads/spread-03.md) | Water tussen haven en eiland | De Zeebries vaart naar het eiland; de kinderen kijken naar de vulkaan en Patrick zit onopgemerkt tussen een tros touw. | V3, V4 |
-| 4 | [Plons!](spreads/spread-04.md) | Vochtige eilandrand | Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het geluid. | V4, V5 |
+| 4 | [Plons!](spreads/spread-04.md) | Vochtige eilandrand | De kinderen bekijken vier watergevulde modderafdrukken in zigzag, ieder met vier kleine lobben; Patrick blijft uit hun zicht. | bevestigd |
 | 5 | [Het ritselende pad](spreads/spread-05.md) | Tropisch binnenland | Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onder die bladeren. | V4, V5 |
 | 6 | [Bij de drakengrot](spreads/spread-06.md) | Grotmond in vulkaanwand | De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter een steen. | V4, V6 |
-| 7 | [Daar ligt hij](spreads/spread-07.md) | Binnen in de grot | De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang. | V6 |
-| 8 | [Ting!](spreads/spread-08.md) | Binnen in de grot | Oscar bukt; zijn saxofoon zwaait aan de schouderband tegen een rots. Eén drakenoog gaat open. | V7 |
+| 7 | [Daar ligt hij](spreads/spread-07.md) | Binnen in de grot | De slapende ronde draak ligt op munten en edelstenen; drie kinderen bij de ingang. | auteurswerktekst |
+| 8 | [Ting!](spreads/spread-08.md) | Binnen in de grot | Oscar bukt naar een edelsteen; zijn saxofoon zwaait aan de schouderband tegen een rots. Eén drakenoog gaat open. | auteurswerktekst |
 | 9 | [Een boze slaper](spreads/spread-09.md) | Grotmond | Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de uitgang. | V8 |
 | 10 | [Rennen!](spreads/spread-10.md) | Bergpad naar eilandkust | De kinderen rennen langs de camera bergaf, met Patrick op de voorgrond en de brommige draak achter hen. | v002 |
 | 11 | [Losgooien!](spreads/spread-11.md) | Aanlegplaats op Drakentand-eiland | De kinderen staan net aan boord terwijl Pake de laatste tros losmaakt; Patrick zit bij Oscars laars. De draak bereikt de oever. | v002 |

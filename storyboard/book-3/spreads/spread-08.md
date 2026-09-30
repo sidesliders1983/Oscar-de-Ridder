@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Oscar reikt bukkend naar een edelsteen; de sax zwaait aan de schouderband tegen de rots. Controleer zichtbaar contact bij de productieillustratie.
+
+Nieuw concept: [board-05-08-v005.png](../../../artwork/book-3/concepts/storyboard/board-05-08-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar voren en tikt tegen een lage rots. Eén drakenoog gaat open.
 
 **Camera:** Middelnabij zijaanzicht; raakpunt en drakenoog aan verschillende kanten, beide buiten vouw.
@@ -49,22 +57,23 @@ Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar
 
 **Dramaturgische functie:** De bladzijde laat de vraag hangen: wat nu?
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
-Oscar bukte en reikte naar de grond.\
-Zijn saxofoon hing aan het schouderbandje.\
-Het instrument zwaaide naar voren.
+De draak sliep op een bult van edelstenen en gouden munten,\
+Oscar zag een edelsteen voor zijn voeten liggen.\
+Hij bukte en reikte naar de grond om hem te pakken.\
+Zijn saxofoon zwaaide aan het schouderbandje. naar voren.
 
 **Rechts**
 
-TING!\
-Precies tegen een rots.\
+TING! Precies tegen een rots.\
 Oscar hield zijn adem in.\
-Eén groot oog ging open.
+Eén groot oog ging open.\
+‘Grmph, wat mot dat!?’
 
 ## Voorstellen ter goedkeuring — V7
 

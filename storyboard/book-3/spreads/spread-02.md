@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Appelflapcontact met Patrick behouden. Pake aanwezig; sax aan band bij Oscar. Mama wordt niet toegevoegd aan het beeld.
+
+Nieuw concept: [board-01-04-v006.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 Oscar hurkt bij Patrick en houdt een stukje appelflap voor hem; achter hen ligt De Zeebries klaar.
 
 **Camera:** Laag en dichtbij Oscar; Patrick klein maar leesbaar op de kade, schip zacht op achtergrond.
@@ -49,22 +57,24 @@ Oscar hurkt bij Patrick en houdt een stukje appelflap voor hem; achter hen ligt 
 
 **Dramaturgische functie:** De lezer ziet een nieuwe reisgenoot.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 In de haven lag De Zeebries klaar.\
-Maar Oscar zag iets kleins op de kade.\
-Een kikker keek naar zijn appelflap.
+Mama had weer appelflappen gebakken.\
+Toen zag Oscar iets kleins op de kade zitten.\
+Een kikker keek hongerig naar zijn appelflap.
 
 **Rechts**
 
-Oscar brak een stukje af.\
-‘Alsjeblieft, Patrick.’\
-Hap.\
-Dat smaakte naar meer.
+Oscar brak een stukje af. Alsjeblieft, kleine kikker.\
+Jij zult wel honger hebben’\
+Hap! Dat smaakte naar meer.\
+Patrick de kicker hopte achter Oscar aan\
+Stiekem mee de zeebries op…
 
 ## Voorstellen ter goedkeuring — V2, V3
 

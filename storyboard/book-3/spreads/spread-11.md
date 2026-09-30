@@ -41,15 +41,23 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Pake maakt de laatste tros los; geen sax bij Pake. Patrick laag bij Oscar buiten de aandacht van de kinderen.
+
+Nieuw concept: [board-09-12-v005.png](../../../artwork/book-3/concepts/storyboard/board-09-12-v005.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De kinderen staan net aan boord terwijl Pake de laatste tros losmaakt; Patrick zit bij Oscars laars. De draak bereikt de oever.
 
 **Camera:** Schuin vanaf het dek; alle kinderen veilig achter de reling, draak op achtergrond.
 
 **Expressies:** Opgelucht maar gehaast; Pake geconcentreerd.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 

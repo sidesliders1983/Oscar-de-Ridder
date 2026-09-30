@@ -1,5 +1,7 @@
 # Scène 04 — Patricks modderspoor
 
+Auteursverfijning: per afdruk precies vier kleinere lobben, ruim verspreid rond de grote ronde plas (ongeveer op 10, 2, 4 en 8 uur). Ook iedere kleine lob bevat zichtbaar ondiep water. Geen extra vijfde teen en geen tenencluster uitsluitend boven de kern.
+
 Auteursbesluit, 30 september 2026, met aangeleverde schematische referentie.
 
 Referenties: [vorm per afdruk](../../references/locations/book-3-mud-tracks/footprint-shape-author-v001.png) en [vier afdrukken in zigzag](../../references/locations/book-3-mud-tracks/zigzag-pattern-author-v001.png).

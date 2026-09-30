@@ -41,6 +41,14 @@ print:
 
 ## Eén illustratiemoment
 
+### Actuele revisie vanuit auteurswerktekst — 30 september 2026
+
+Oscar kijkt over de boeg alsof hij het schip hoort kraken; Elke kijkt naar de drakenberg. Patrick tussen touw, onopgemerkt.
+
+Nieuw concept: [board-01-04-v006.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+
+### Eerdere enscenering (historisch)
+
 De Zeebries vaart naar het eiland; de kinderen kijken naar de vulkaan en Patrick zit onopgemerkt tussen een tros touw.
 
 **Camera:** Breed zijaanzicht van schip, paleis klein linksachter en vulkaan rechtsvoor; geen kaartachtige exacte afstanden.
@@ -49,22 +57,23 @@ De Zeebries vaart naar het eiland; de kinderen kijken naar de vulkaan en Patrick
 
 **Dramaturgische functie:** Van vertrouwd naar onbekend.
 
-## Voorleestekst — voorstel
+## Voorleestekst — auteurswerktekst v002
 
-Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Pake Jasper stuurde De Zeebries de haven uit.\
-Het kasteel werd kleiner.\
-De berg werd groter.
+Het kasteel werd kleiner en de berg werd groter.\
+‘Daar gaan we!’ zei Philijne.\
+Elke ging op haar tenen staan, ‘Ik zie de drakenberg al!
 
 **Rechts**
 
-‘Daar gaan we,’ zei Philijne.\
-Elke ging op haar tenen staan.\
 Tussen het touw zaten twee ronde ogen.\
-Er voer nog iemand mee.
+‘Kwaaaakk!’ hoorden de kinderen plotseling.\
+Oscar keek over de boeg van het schip,\
+‘Wajoo! Die boot kraakt zeg! Die kan wel een opknapbeurtje gebruiken, Pake!
 
 ## Voorstellen ter goedkeuring — V3, V4
 
@@ -87,4 +96,3 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 ## Review
 
 Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
-
