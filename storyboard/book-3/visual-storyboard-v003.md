@@ -1,5 +1,7 @@
 # Visueel storyboard — concept v003
 
+Laatste beeldrevisie scène 04: board-01-04-v008. Twee grotere achterlobben sluiten met hun water aan op de ronde kern; twee kleinere voorlobben geven de afdruk een duidelijke voor- en achterkant. [Prompt en revisie](../../prompts/illustration/storyboard-mud-anatomy-v002.md). Nieuw concept ter beoordeling. De eerder gemaakte print-PDF v001 bevat nog het vorige beeld.
+
 Taalcorrectie 30 september 2026: interpunctie, spelling en kleine grammaticale fouten hersteld op auteursverzoek. Beeldcomposities en verhaalgebeurtenissen behouden.
 
 Herzien op basis van de aangepaste auteurs-Wordtekst, 30 september 2026. **CONCEPT: nog geen definitieve artworkgoedkeuring of drukbestanden.** Vier overzichtsbladen, zestien spreads. De tekst staat bewerkbaar naast de beelden; nieuwe voorleestekst is niet in de miniaturen ingebakken.
@@ -12,7 +14,7 @@ De bladversies verschillen door gerichte revisies. Blad 13–16 is bestand v006;
 
 ## Spreads 01–04
 
-![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v006.png)
+![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v008.png)
 
 ### 01 — Het briefje bromt na
 

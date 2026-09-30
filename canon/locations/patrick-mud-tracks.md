@@ -1,6 +1,8 @@
 # Scène 04 — Patricks modderspoor
 
-Auteursverfijning: per afdruk precies vier kleinere lobben, ruim verspreid rond de grote ronde plas (ongeveer op 10, 2, 4 en 8 uur). Ook iedere kleine lob bevat zichtbaar ondiep water. Geen extra vijfde teen en geen tenencluster uitsluitend boven de kern.
+Actuele auteursverfijning: per afdruk een grote ronde waterplas als lichaamsafdruk, twee achterlobben aan weerszijden en twee nog kleinere voorlobben. De achterlobben zijn groter dan de voorlobben en sluiten met hun watervulling aan op de centrale plas; daar loopt geen scheidende modderrand tussen. Alle vier lobben bevatten water. De afdruk heeft een herkenbare voor- en achterkant zoals een kikker van boven, geen vier identieke, gelijkmatig rond de cirkel verdeelde tenen. Dit vervangt de eerdere klokposities 10, 2, 4 en 8 uur.
+
+Nieuwe vormreferenties: [kikker van boven](../../references/locations/book-3-mud-tracks/frog-anatomy-author-v002.png) en [blauwe omlijning door auteur](../../references/locations/book-3-mud-tracks/joined-water-outline-author-v002.png). De blauwe lijn is een instructie voor de contour, geen element van het uiteindelijke beeld.
 
 Auteursbesluit, 30 september 2026, met aangeleverde schematische referentie.
 

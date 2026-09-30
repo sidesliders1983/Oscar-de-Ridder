@@ -43,9 +43,9 @@ print:
 
 ### Actuele revisie vanuit auteurswerktekst — 30 september 2026
 
-Vier afzonderlijke afdrukken in een vooruitlopend links/rechts-zigzagspoor. Iedere ronde waterplas heeft precies vier kleinere, verspreide watergevulde lobben. Patrick onzichtbaar voor de kinderen.
+Vier afzonderlijke afdrukken in een vooruitlopend links/rechts-zigzagspoor. Iedere ronde waterplas heeft twee grotere achterlobben aan weerszijden, met water dat aansluit op de centrale plas, en twee kleinere voorlobben. Geen vier identieke radiale tenen. Patrick onzichtbaar voor de kinderen. Deze anatomische verfijning volgt de nieuwe kikkerreferentie en blauwe auteursomlijning.
 
-Nieuw concept: [board-01-04-v006.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-01-04-v008.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v008.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
