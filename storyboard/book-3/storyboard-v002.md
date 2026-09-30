@@ -13,7 +13,7 @@ Status: CONCEPT. Actuele versie; vervangt v001. **16 spreads / 32 verhaalpagina'
 | 5 | [Het ritselende pad](spreads/spread-05.md) | Tropisch binnenland | Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onder die bladeren. | V4, V5 |
 | 6 | [Bij de drakengrot](spreads/spread-06.md) | Grotmond in vulkaanwand | De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter een steen. | V4, V6 |
 | 7 | [Daar ligt hij](spreads/spread-07.md) | Binnen in de grot | De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang. | V6 |
-| 8 | [Ting!](spreads/spread-08.md) | Binnen in de grot | Oscars saxofoon raakt bij omdraaien een lage rots; één drakenoog gaat open. | V7 |
+| 8 | [Ting!](spreads/spread-08.md) | Binnen in de grot | Oscar bukt; zijn saxofoon zwaait aan de schouderband tegen een rots. Eén drakenoog gaat open. | V7 |
 | 9 | [Een boze slaper](spreads/spread-09.md) | Grotmond | Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de uitgang. | V8 |
 | 10 | [Rennen!](spreads/spread-10.md) | Bergpad naar eilandkust | De kinderen rennen langs de camera bergaf, met Patrick op de voorgrond en de brommige draak achter hen. | v002 |
 | 11 | [Losgooien!](spreads/spread-11.md) | Aanlegplaats op Drakentand-eiland | De kinderen staan net aan boord terwijl Pake de laatste tros losmaakt; Patrick zit bij Oscars laars. De draak bereikt de oever. | v002 |

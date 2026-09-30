@@ -75,3 +75,7 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 
 Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
 
+
+## Saxofoonband — auteursbesluit 30 september 2026
+
+Oscar draagt de saxofoon aan een smal bruin schouderbandje, zichtbaar verbonden met het instrument. Tijdens rennen mag hij hem met een hand stabiliseren; bij bukken zwaait hij onder zwaartekracht naar voren. Schild heeft afzonderlijke ondersteuning. Zie canon/characters/oscar-saxophone-strap.md.

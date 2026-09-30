@@ -3,7 +3,7 @@ status: CONCEPT
 book: book-3
 spread_number: 8
 spec_version: v001
-story_beat: "Oscars saxofoon raakt bij omdraaien een lage rots; één drakenoog gaat open."
+story_beat: "Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar voren en tikt tegen een lage rots. Eén drakenoog gaat open."
 canon_sources:
   - canon/book-3-story-canon.md
   - canon/visual-style.md
@@ -12,7 +12,7 @@ canon_sources:
 characters_present: ["Oscar","Philijne","Elke","Patrick","Draak"]
 required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
 location: "Binnen in de grot"
-composition: "Oscars saxofoon raakt bij omdraaien een lage rots; één drakenoog gaat open."
+composition: "Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar voren en tikt tegen een lage rots. Eén drakenoog gaat open."
 camera_position: "Middelnabij zijaanzicht; raakpunt en drakenoog aan verschillende kanten, beide buiten vouw."
 character_expressions: "Oscar betrapt; draak slaperig geïrriteerd; Elke schrikt een beetje."
 text_safe_area: "Onderste circa 1/3: rustig licht crème/beige, geen personages of belangrijke objecten"
@@ -41,7 +41,7 @@ print:
 
 ## Eén illustratiemoment
 
-Oscars saxofoon raakt bij omdraaien een lage rots; één drakenoog gaat open.
+Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar voren en tikt tegen een lage rots. Eén drakenoog gaat open.
 
 **Camera:** Middelnabij zijaanzicht; raakpunt en drakenoog aan verschillende kanten, beide buiten vouw.
 
@@ -51,11 +51,11 @@ Oscars saxofoon raakt bij omdraaien een lage rots; één drakenoog gaat open.
 
 ## Voorleestekst — voorstel
 
-Oscar draaide zich om. TING! Zijn saxofoon tikte tegen een steen. Eén groot oog ging open.
+Oscar bukte. Zijn saxofoon zwaaide naar voren. TING! Tegen een steen. Eén groot oog ging open.
 
 ## Voorstellen ter goedkeuring — V7
 
-Oscar maakt de draak per ongeluk wakker met een tik van de saxofoon; expliciet voorstel.
+Auteursvoorstel verwerkt: bukken laat de saxofoon aan zijn band tegen de rots tikken. Wat hij wil pakken is nog niet bepaald; geen nieuw verhaalobject toegevoegd.
 
 Zie het [voorstellenregister](../storyboard-v002.md#voorstellen-ter-goedkeuring). Het voorstelnummer registreert een keuze, geen bevestiging.
 
@@ -75,3 +75,7 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 
 Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
 
+
+## Saxofoonband — auteursbesluit 30 september 2026
+
+Oscar draagt de saxofoon aan een smal bruin schouderbandje, zichtbaar verbonden met het instrument. Tijdens rennen mag hij hem met een hand stabiliseren; bij bukken zwaait hij onder zwaartekracht naar voren. Schild heeft afzonderlijke ondersteuning. Zie canon/characters/oscar-saxophone-strap.md.

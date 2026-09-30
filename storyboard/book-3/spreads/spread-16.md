@@ -64,3 +64,7 @@ Gebruik het [characterregister](../../../references/characters/README.md) en de 
 A3 liggend 420 × 297 mm, twee A4 staande pagina's, minimaal 3000 px breed. Eén doorlopende scène; geen zichtbare vouw. Bovenste circa 2/3 illustratie, onderste circa 1/3 rustig crème/beige tekstgebied zonder personages of belangrijke objecten. Geen gezichten, tekst of cruciale details op middenvouw. Bleed en veilige marges met drukker bevestigen. Minimalistische aquarel, zwarte viltstiftlijnen, zachte warme kleuren; achtergrond 30–50% zachter/verzadigingsarmer.
 
 Exacte beeldreferenties en generatieprompt vóór illustratie vastleggen. Nog geen artworkgoedkeuring.
+
+## Saxofoonband — auteursbesluit 30 september 2026
+
+Oscar draagt de saxofoon aan een smal bruin schouderbandje, zichtbaar verbonden met het instrument. Tijdens rennen mag hij hem met een hand stabiliseren; bij bukken zwaait hij onder zwaartekracht naar voren. Schild heeft afzonderlijke ondersteuning. Zie canon/characters/oscar-saxophone-strap.md.
