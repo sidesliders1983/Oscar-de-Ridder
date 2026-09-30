@@ -15,8 +15,8 @@ import json
 
 ROOT=Path(__file__).parent
 ART=ROOT/'artwork/book-3/concepts/spreads'
-OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v004.pdf'
-QA=ROOT/'tmp/pdfs/book-3-testspreads-v004'
+OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v008.pdf'
+QA=ROOT/'tmp/pdfs/book-3-testspreads-v008'
 QA.mkdir(parents=True,exist_ok=True)
 OUT.parent.mkdir(parents=True,exist_ok=True)
 W,H=420*mm,297*mm
@@ -79,9 +79,32 @@ def draw_block(c,lines,x,y,width):
         p.drawOn(c,x,y)
         y-=style.spaceAfter
 
+def roar_lettering(c,scene):
+    """Set the exact recurring roar as sharp vector lettering in the art."""
+    c.saveState()
+    if scene==14:
+        # The shout comes from the dark, still-hidden castle interior.
+        center_x=112*mm; y=218*mm; angle=5
+        fill=(.99,.88,.50); outline=(.16,.12,.09)
+        size=42
+    else:
+        # Patrick is visible; keep the sound centered just above him.
+        center_x=210*mm; y=185*mm; angle=-3
+        fill=(.54,.10,.06); outline=(.99,.95,.83)
+        size=42
+    width=pdfmetrics.stringWidth('GRAAAAUW!','Roar',size)
+    c.translate(center_x-width/2,y); c.rotate(angle)
+    c.setLineWidth(2.2)
+    t=c.beginText(); t.setFont('Roar',size)
+    t.setFillColorRGB(*fill); t.setStrokeColorRGB(*outline)
+    t.setTextRenderMode(2)
+    t.textLine('GRAAAAUW!'); c.drawText(t)
+    c.restoreState()
+
 def main():
     pdfmetrics.registerFont(TTFont('Read','C:/Windows/Fonts/segoepr.ttf'))
     pdfmetrics.registerFont(TTFont('ReadBold','C:/Windows/Fonts/segoeprb.ttf'))
+    pdfmetrics.registerFont(TTFont('Roar','C:/Windows/Fonts/comicbd.ttf'))
     pdfmetrics.registerFontFamily('Read',normal='Read',bold='ReadBold')
     spreads=extract_spreads()
     c=canvas.Canvas(str(OUT),pagesize=(W,H),pageCompression=1)
@@ -113,6 +136,8 @@ def main():
             c.drawImage(str(fadepath),0,TEXT_H,width=W,height=H-TEXT_H,mask='auto')
         else:
             c.drawImage(str(art),0,0,width=W,height=H,mask='auto')
+        if n in (14,15):
+            roar_lettering(c,n)
         # A translucent cream wash softens the existing watercolor paper and fades
         # the large original corner flowers without creating a straight image edge.
         c.saveState(); c.setFillColorRGB(.975,.922,.805)
@@ -140,7 +165,9 @@ def main():
     for page in r.pages:
         assert abs(float(page.mediabox.width)-W)<.01 and abs(float(page.mediabox.height)-H)<.01
     alltext='\n'.join(p.extract_text() or '' for p in r.pages)
-    assert alltext.count('GRAAAAUW!')>=2  # normalized narration in scenes 14 and 15
+    assert alltext.count('GRAAAAUW!')>=2  # narration; art lettering is separate vector text
+    assert (r.pages[13].extract_text() or '').count('GRAAAAUW!')==2
+    assert (r.pages[14].extract_text() or '').count('GRAAAAUW!')==2
     # Contact sheet at readable thumbnail size for visual review.
     d=pdfium.PdfDocument(str(OUT))
     thumbs=[d[i].render(scale=.28).to_pil() for i in range(16)]

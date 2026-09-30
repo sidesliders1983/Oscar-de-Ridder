@@ -15,3 +15,11 @@ Dit is een lees- en kijkproef voor thuisprinten, geen definitieve boekdrukexport
 [Alle testspreads boek 3 v003](boek-3-testspreads-a3-v003.pdf): alle tekstblokken staan twee leesregels lager dan in v002; de uitlijning is op alle spreads gelijk gehouden.
 
 [Alle testspreads boek 3 v004](boek-3-testspreads-a3-v004.pdf): op spreads 03, 09, 10, 11, 12 en 13 staat de tekst één extra regel lager om ruimte te geven aan de illustratiefade. De overige spreads behouden de positie van v003.
+
+[Alle testspreads boek 3 v005](boek-3-testspreads-a3-v005.pdf): spreads 14–16 hebben nu zelfstandige conceptillustraties in plaats van storyboarduitsneden. De exacte brul `GRAAAAUW!` staat als vector in de illustratiezone van spreads 14 en 15. De nieuwe beelden zijn 1491 × 1055 px; dit blijft een compositie- en leesproef, geen 300 dpi-drukbestand. Prompts/referenties: `prompts/illustration/book-3-spreads-14-16-v001.md`.
+
+[Alle testspreads boek 3 v006](boek-3-testspreads-a3-v006.pdf): dezelfde nieuwe spreads 14–16; de vectorbrul is vergroot en contrastrijker gezet voor betere leesbaarheid in scènes 14 en 15.
+
+[Alle testspreads boek 3 v007](boek-3-testspreads-a3-v007.pdf): scènes 14 en 15 gebruiken nu extra vette, omlijnde vectorletters voor `GRAAAAUW!`.
+
+[Alle testspreads boek 3 v008](boek-3-testspreads-a3-v008.pdf): de brul staat per spread één keer als gevulde, omlijnde vectortekst in de illustratie en één keer in de voorleestekst.
