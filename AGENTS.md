@@ -79,3 +79,7 @@ Bij artwork-taken moet de prompt expliciet verwijzen naar de relevante canon en 
 - verwijder geen referenties zonder expliciete opdracht
 - gebruik duidelijke bestandsnamen en versies
 - bij twijfel: stop en stel een canonvraag
+
+## Boek 3 — uitrustingskeuze auteur, 30 september 2026
+
+Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen.

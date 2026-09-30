@@ -10,7 +10,7 @@ canon_sources:
   - canon/locations/dragon-cave.md
   - canon/locations/2026-09-29-location-decision.md
 characters_present: ["Oscar","Philijne","Elke","Patrick"]
-required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","vissenkomhelm","kort ketelharnas","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
+required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
 location: "Vochtige eilandrand"
 composition: "Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het geluid."
 camera_position: "Op kinderhoogte, kinderen links, opspattend water rechts; Patrick deels achter blad zichtbaar voor lezer."
@@ -63,7 +63,7 @@ Zie het [voorstellenregister](../storyboard-v002.md#voorstellen-ter-goedkeuring)
 
 Gebruik het [centrale characterregister](../../../references/characters/README.md) en de [referentieselectie voor dit storyboard](../storyboard-v002.md#referenties-en-productieregels). Oscar is zes, Elke vier; Philijne draagt de gekozen paarse jurk, Elke de gele top met blauwe tuinbroek. Papa Jildo heeft geen baard of snor als hij later wordt toegevoegd. Geen bijfiguren toevoegen zonder storyboardwijziging.
 
-Oscars volledige uitrusting blijft gedurende de tocht aanwezig, ook wanneer niet alles vanuit de camera zichtbaar is. De saxofoon krijgt nooit een kling.
+Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen. De saxofoon krijgt nooit een kling.
 
 De lijst source_reference_images blijft bewust leeg tot de exacte beelden per generatie zijn geselecteerd en met versie, herkomst en functie vastgelegd. Dit is geen toestemming om zonder referenties te genereren.
 

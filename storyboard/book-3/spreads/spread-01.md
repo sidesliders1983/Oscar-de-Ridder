@@ -75,3 +75,5 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 
 Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
 
+
+Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen.

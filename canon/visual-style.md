@@ -86,3 +86,7 @@ De draak moet spannend genoeg zijn om de achtervolging begrijpelijk te maken, ma
 Boek 3 gebruikt de titel **GEBULDER IN DE BERGEN** met serienaam **OSCAR DE KOENE RIDDER**. De reeds goedgekeurde covercompositie en typografische hiërarchie gelden als visuele referentie en mogen niet stilzwijgend opnieuw worden ontworpen.
 
 Productiecredit zoals ontwikkeld: **gemaakt door Oscar, Elke, Silvie en Jildo**.
+
+## Boek 3 — uitrustingskeuze, 30 september 2026
+
+Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen.

@@ -10,7 +10,7 @@ canon_sources:
   - canon/locations/dragon-cave.md
   - canon/locations/2026-09-29-location-decision.md
 characters_present: ["Oscar","Philijne","Elke","Patrick","Pake Jasper","Draak"]
-required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","vissenkomhelm","kort ketelharnas","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
+required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
 location: "Water tussen eiland en koninklijke haven"
 composition: "De Zeebries vaart naar de haven terwijl de dikke draak laag boven het water achter het schip vliegt."
 camera_position: "Breed zijaanzicht; eiland achter, herkenbare paleiskust voor; draak en schip beide volledig leesbaar."
@@ -59,7 +59,7 @@ Zie [storyboard v002](../storyboard-v002.md) en [auteursbesluit](../../../canon/
 
 ## Referenties en productie
 
-Gebruik het [characterregister](../../../references/characters/README.md) en de referenties in het storyboard. Oscar zes, Elke vier; paarse jurk voor Philijne, gele top en blauwe tuinbroek voor Elke. Oscars volledige canonieke uitrusting blijft aanwezig. Draak rond, kleine vleugels en korte poten, koddig en niet kwaadaardig.
+Gebruik het [characterregister](../../../references/characters/README.md) en de referenties in het storyboard. Oscar zes, Elke vier; paarse jurk voor Philijne, gele top en blauwe tuinbroek voor Elke. Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen. Draak rond, kleine vleugels en korte poten, koddig en niet kwaadaardig.
 
 A3 liggend 420 × 297 mm, twee A4 staande pagina's, minimaal 3000 px breed. Eén doorlopende scène; geen zichtbare vouw. Bovenste circa 2/3 illustratie, onderste circa 1/3 rustig crème/beige tekstgebied zonder personages of belangrijke objecten. Geen gezichten, tekst of cruciale details op middenvouw. Bleed en veilige marges met drukker bevestigen. Minimalistische aquarel, zwarte viltstiftlijnen, zachte warme kleuren; achtergrond 30–50% zachter/verzadigingsarmer.
 

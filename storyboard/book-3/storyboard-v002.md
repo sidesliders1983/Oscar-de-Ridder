@@ -60,3 +60,8 @@ Een storyboard-overzicht mag meerdere studies naast elkaar tonen; een uiteindeli
 
 v001: eerste 14-spreadvoorstel; eilandontknoping afgewezen. [Historisch overzicht](archive/v001/storyboard-v001.md) en kopieën van toenmalige spreads bewaard. v002: 16 spreads, terugreis en kasteelmisverstand volgens auteurscorrectie. Geen beeldschetsen gegenereerd in deze revisie.
 
+
+## Uitrustingscorrectie — 30 september 2026
+
+Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen.
+De eerdere thumbnails v001 zijn op dit punt achterhaald; zie het [herziene visuele storyboard v002](visual-storyboard-v002.md).
