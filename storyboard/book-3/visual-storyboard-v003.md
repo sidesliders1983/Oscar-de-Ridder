@@ -1,5 +1,7 @@
 # Visueel storyboard — concept v003
 
+**Gekozen concept scène 04:** auteur selecteerde v011 op 30 september 2026, met de bijgevoegde bevestiging ‘de laatste van deze 3 concepten werkt het beste’. Gebruik deze compositie als basis voor verdere uitwerking.
+
 Richtingscorrectie v011: alleen de vier afdrukken verder naar rechtsboven gedraaid. Kleine voorlobben duidelijk aan de rechterzijde, grotere achterlobben links/linksonder; camera en regenwoud behouden. [Prompt](../../prompts/illustration/storyboard-mud-direction-v004.md). Concept ter beoordeling.
 
 Nieuwste scène 04: board-01-04-v010. Lagere camera kijkt langs het spoor naar rechtsboven het dichte regenwoud in; ook de afdrukken zelf wijzen vooruit langs die richting en worden kleiner in de verte. Patrick zit aan het einde onder een blad buiten de zichtlijn van de kinderen. [Prompt en richtingsreferentie](../../prompts/illustration/storyboard-mud-perspective-v003.md). Concept ter beoordeling; print-PDF v001 bevat het eerdere beeld.
