@@ -13,3 +13,5 @@ Dit is een lees- en kijkproef voor thuisprinten, geen definitieve boekdrukexport
 [Alle testspreads boek 3 v002](boek-3-testspreads-a3-v002.pdf): tekst blijft losse vectortekst; de ondoorzichtige onderbalk is vervangen door een zachte transparante crème-overgang. De illustratie loopt daardoor zonder harde rechte snede door in het tekstgebied. Scènes 14–16 faden vanuit hun storyboarduitsnede naar papier.
 
 [Alle testspreads boek 3 v003](boek-3-testspreads-a3-v003.pdf): alle tekstblokken staan twee leesregels lager dan in v002; de uitlijning is op alle spreads gelijk gehouden.
+
+[Alle testspreads boek 3 v004](boek-3-testspreads-a3-v004.pdf): op spreads 03, 09, 10, 11, 12 en 13 staat de tekst één extra regel lager om ruimte te geven aan de illustratiefade. De overige spreads behouden de positie van v003.

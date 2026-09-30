@@ -15,8 +15,8 @@ import json
 
 ROOT=Path(__file__).parent
 ART=ROOT/'artwork/book-3/concepts/spreads'
-OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v003.pdf'
-QA=ROOT/'tmp/pdfs/book-3-testspreads-v003'
+OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v004.pdf'
+QA=ROOT/'tmp/pdfs/book-3-testspreads-v004'
 QA.mkdir(parents=True,exist_ok=True)
 OUT.parent.mkdir(parents=True,exist_ok=True)
 W,H=420*mm,297*mm
@@ -125,8 +125,11 @@ def main():
             c.rect(0,y,W,step+.15*mm,fill=1,stroke=0)
         c.restoreState()
         flowers(c,8*mm,3*mm); flowers(c,W-10*mm,3*mm)
-        # Lower every text block by two reading lines (2 × 21.5 pt).
-        text_top=89*mm-2*21.5*25.4/72*mm
+        # Keep the global two-line offset; add one more line where the art
+        # transition runs lower into the text area in the reviewed examples.
+        extra_line={3,9,10,11,12,13}
+        line_shift_pt=21.5*(2+(1 if n in extra_line else 0))
+        text_top=89*mm-line_shift_pt*25.4/72*mm
         draw_block(c,spreads[n]['left'],25*mm,text_top,165*mm)
         draw_block(c,spreads[n]['right'],230*mm,text_top,165*mm)
         c.showPage()
