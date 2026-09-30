@@ -45,7 +45,7 @@ print:
 
 Kinderen lopen van de afgemeerde Zeebries door de poort het kasteel in; draak achter hen in de haven.
 
-Nieuw concept: [board-13-16-v006.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v006.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-13-16-v007.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v007.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
@@ -73,6 +73,10 @@ De kinderen renden naar binnen.\
 Iets kleins hupte achter hen aan.
 
 ## Afbakening
+
+### Beeldcorrectie v007 — Patrick volgt zichtbaar
+
+Patrick hupt klein maar herkenbaar achter Elke door de poort, in dezelfde richting als de kinderen. Zij kijken vooruit en merken hem nog niet op. Deze toevoeging sluit aan op ‘Iets kleins hupte achter hen aan.’ De bestaande compositie blijft behouden. Concept ter beoordeling; [exacte prompt](../../../prompts/illustration/storyboard-scene-13-patrick-v007.md).
 
 Aanmeren en uitstappen liggen tussen 12 en 13. De draak komt aan in de haven. Vluchtrichting van boot door poort naar binnen bevestigd door auteur; precieze architectuur blijft concept.
 

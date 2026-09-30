@@ -219,7 +219,7 @@ Boven de golven vloog een heel dikke draak!
 
 ## Spreads 13–16
 
-![Spreads 13–16](../../artwork/book-3/concepts/storyboard/board-13-16-v006.png)
+![Spreads 13–16](../../artwork/book-3/concepts/storyboard/board-13-16-v007.png)
 
 ### 13 — Naar de poort!
 
