@@ -3,7 +3,7 @@ status: CONCEPT
 book: book-3
 spread_number: 4
 spec_version: v001
-story_beat: "Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het geluid."
+story_beat: "De kinderen bekijken vier drakenpootachtige modderafdrukken van Patricks afwisselend links/rechts voorwaartse sprongen; hij blijft buiten hun zicht."
 canon_sources:
   - canon/book-3-story-canon.md
   - canon/visual-style.md
@@ -12,8 +12,8 @@ canon_sources:
 characters_present: ["Oscar","Philijne","Elke","Patrick"]
 required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
 location: "Vochtige eilandrand"
-composition: "Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het geluid."
-camera_position: "Op kinderhoogte, kinderen links, opspattend water rechts; Patrick deels achter blad zichtbaar voor lezer."
+composition: "Vier afzonderlijke ronde modderafdrukken met ieder vier kleinere lobben vormen een voorwaarts zigzagspoor; de kinderen bekijken dit spoor, Patrick blijft verborgen."
+camera_position: "Schuin van boven op de vier modderafdrukken, kinderen ernaast; hun blikken naar het spoor, vegetatie schermt Patrick af."
 character_expressions: "Kinderen alert maar niet bang; Patrick onschuldig."
 text_safe_area: "Onderste circa 1/3: rustig licht crème/beige, geen personages of belangrijke objecten"
 gutter_constraints: "Geen zichtbare naad; gezichten, tekst en cruciale details buiten middenvouw"
@@ -41,9 +41,9 @@ print:
 
 ## Eén illustratiemoment
 
-Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het geluid.
+De kinderen onderzoeken vier afzonderlijke modderafdrukken in een vooruitlopend zigzagpatroon. Patrick is telkens afwisselend links/rechts vooruit gesprongen. Iedere landing laat een volledige afdruk achter met een grote ronde kern en vier kleinere overlappende ronde/ovale lobben, volgens de eerste auteursreferentie. De tweede referentie bepaalt de onderlinge ligging. Ondiep water staat in de modderige indrukken. Elke afdruk kan zowel kikkerafdruk als drakenpoot lijken.
 
-**Camera:** Op kinderhoogte, kinderen links, opspattend water rechts; Patrick deels achter blad zichtbaar voor lezer.
+**Camera:** Schuin van boven, zodat de afdruk duidelijk leesbaar is. Patrick blijft door vegetatie afgeschermd van alle kinderen; hij kan hooguit voor de lezer zichtbaar zijn. Geen centrale plons of opeenvolgende sprongbeelden.
 
 **Expressies:** Kinderen alert maar niet bang; Patrick onschuldig.
 
@@ -68,7 +68,7 @@ Elke keek naar het water.\
 
 ## Voorstellen ter goedkeuring — V4, V5
 
-Aanlanding gebeurt tussen spreads; Pake blijft bij schip. Plas en eerste vals spoor zijn voorgestelde uitwerking.
+Aanlanding gebeurt tussen spreads; Pake blijft bij schip. Het modderspoor door vier kruislings gemaakte sprongen is bevestigd door de auteur. Zie [auteursbesluit](../../../canon/locations/patrick-mud-tracks.md). De korte voorleestekst hierboven is achterhaald; het aangepaste Word-document blijft het auteurswerkbestand en is niet overschreven.
 
 Zie het [voorstellenregister](../storyboard-v002.md#voorstellen-ter-goedkeuring). Het voorstelnummer registreert een keuze, geen bevestiging.
 

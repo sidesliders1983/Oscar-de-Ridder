@@ -26,6 +26,8 @@ Patrick de brulkikker krijgt vroeg in het avontuur een klein, warm contactmoment
 
 Tijdens de tocht veroorzaakt Patrick ongemerkt geluiden, plonsen, geritsel en/of sporen. Oscar en zijn vrienden denken daardoor geregeld dat ze de draak op het spoor zijn. Zonder dat iemand het beseft helpt Patrick hen juist de goede kant op.
 
+Scène 04 is nader bevestigd: Patrick springt vier keer afwisselend links/rechts vooruit in waterige modder. Iedere sprong laat een afzonderlijke afdruk achter die op een drakenpoot lijkt; samen vormen ze een zigzagspoor. Patrick blijft buiten het zicht van de kinderen; zij weten nog niet dat hij mee is. Zie [modderspoor en vormreferenties](locations/patrick-mud-tracks.md).
+
 De tocht leidt naar de berg/vulkaan die visueel aansluit op het einde van boek 2. Daar vinden ze de draak slapend.
 
 De draak wordt per ongeluk wakker. De kinderen denken dat hij verantwoordelijk is voor het gebulder. De draak raakt geïrriteerd — mede doordat hij wordt wakker gemaakt en beschuldigd — en zet de achtervolging in.
