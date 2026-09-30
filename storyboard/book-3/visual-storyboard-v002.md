@@ -22,7 +22,7 @@ Vier overzichtsbladen bij [geschreven storyboard v002](storyboard-v002.md). Gema
 
 ## Spreads 13-16
 
-![Spreads 13-16](../../artwork/book-3/concepts/storyboard/board-13-16-v004.png)
+![Spreads 13-16](../../artwork/book-3/concepts/storyboard/board-13-16-v005.png)
 
 [Exacte prompt 4](../../prompts/illustration/storyboard-board-4-v001.md)
 
@@ -53,3 +53,7 @@ Saxofoon en schild in 01 naar achtergrond; scheepsdraak in 02 groen; saxofoon in
 ## Schouderband — scènes 05–16
 
 Nieuwe bladen 05–08 v003, 09–12 v003 en 13–16 v004. In 08 bukt Oscar en zwaait de saxofoon naar de rots. [Prompts en revisies](../../prompts/illustration/storyboard-strap-revision.md). Kleine bevestigingsdetails en het exacte raakpunt in 08 blijven bij de afzonderlijke spreaduitwerking te verfijnen.
+
+## Kreet scène 14 — v005
+
+Auteurskeuze: GRAAAAAAUW! vervangt BRRROOOEM! Patricks verborgen brul blijft de bron. [Prompt](../../prompts/illustration/storyboard-roar-v005.md).

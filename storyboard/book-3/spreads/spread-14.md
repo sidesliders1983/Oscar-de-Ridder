@@ -49,11 +49,11 @@ Een enorm gebulder klinkt vanuit de donkere poortdoorgang; de draak deinst buite
 
 ## Voorleestekst — voorstel
 
-BRRROOOEM! Het geluid kwam uit het kasteel. De draak deinsde achteruit. ‘Daar woont een nóg grotere!’
+GRAAAAAAUW! Het geluid kwam uit het kasteel. De draak deinsde achteruit. ‘Daar woont een nóg grotere!’
 
 ## Afbakening
 
-Misverstand bij kasteel bevestigd. Alleen de draak denkt aan een grotere draak; er bestaat geen nieuwe draak. Kreet en ruimtelijke enscenering blijven voorstel. Terugdeinzen is het enige beeldmoment.
+Misverstand bij kasteel bevestigd. Alleen de draak denkt aan een grotere draak; er bestaat geen nieuwe draak. Kreet GRAAAAAAUW! gekozen door auteur; ruimtelijke enscenering blijft concept. Terugdeinzen is het enige beeldmoment.
 
 Zie [storyboard v002](../storyboard-v002.md) en [auteursbesluit](../../../canon/locations/2026-09-29-return-chase.md).
 
