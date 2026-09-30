@@ -162,7 +162,7 @@ Hij kwam brommend overeind.
 
 ‘En nu ben ik wakker.’\
 ‘Dat ruiken we,’ grinnikte Elke. ‘Je hebt slaapadem, hihi!’\
-Boos kwam de draak overeind. ‘Hoe durven jullie me zo te storen!?’\
+Boos ging de draak op zijn achterpoten staan. ‘Hoe durven jullie me zo te storen!?’\
 Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen afkwam.
 
 ### 10 — Rennen!
