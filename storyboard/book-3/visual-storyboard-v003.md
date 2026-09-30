@@ -34,18 +34,18 @@ Elke hield haar hand achter haar oor.\
 
 **Links**
 
-In de haven lag De Zeebries klaar.\
+In de haven lag De Zeebries al klaar.\
 Mama had weer appelflappen gebakken.\
 Toen zag Oscar iets kleins op de kade zitten.\
 Een kikker keek hongerig naar zijn appelflap.
 
 **Rechts**
 
-Oscar brak een stukje af. ‘Alsjeblieft, kleine kikker.\
-Jij zult wel honger hebben.’\
-Hap! Dat smaakte naar meer.\
-Patrick de kikker hopte achter Oscar aan.\
-Stiekem mee De Zeebries op…
+Oscar brak een stukje af. ‘Alsjeblieft, kleine kikker,\
+jij zult wel honger hebben.’\
+Hap. Hmmmm, dat smaakte naar meer!\
+Patrick de kikker hopte achter Oscar aan,\
+stiekem mee De Zeebries op…
 
 ### 03 — Naar Drakentand-eiland
 
@@ -59,7 +59,7 @@ Elke ging op haar tenen staan. ‘Ik zie de Drakenberg al!’
 **Rechts**
 
 Tussen het touw zaten twee ronde ogen.\
-‘Kwaaaakk!’ hoorden de kinderen plotseling.\
+'GRAAAAAAUW!' hoorden de kinderen plotseling.\
 Oscar keek over de boeg van het schip.\
 ‘Wajoo! Die boot kraakt, zeg! Die kan wel een opknapbeurtje gebruiken, Pake!’
 
@@ -89,13 +89,13 @@ Elke keek naar het waterlaagje in de modderige voetstappen.\
 
 Ritsel. Ritsel.\
 Verderop bewogen de bladeren.\
-Oscar bleef staan. ‘Daar gaat iets!’\
+Oscar bleef staan. ‘Daar beweegt iets!’\
 Hij wees naar het pad dat door de struiken doorliep.
 
 **Rechts**
 
 Ze volgden het geritsel de berg op.\
-‘Snel erachteraan! Het kan niet ver meer zijn.\
+‘Snel erachteraan!' zei Oscar, 'Het kan niet ver meer zijn.\
 Ik denk dat ik verderop een grot zie.’\
 Patrick de brulkikker keek onder een blad de avonturiers na.
 
@@ -111,7 +111,7 @@ De kinderen hielden hun adem in.
 
 Hrrrrrr. Hrrrrrr.\
 ‘Hier woont iemand,’ fluisterde Elke.\
-‘… Klinkt wel alsof die aan het stofzuigen is,’ grapte Philijne.
+‘… Klinkt alsof die aan het stofzuigen is,’ grapte Philijne.
 
 ### 07 — Daar ligt hij
 
@@ -119,8 +119,8 @@ Hrrrrrr. Hrrrrrr.\
 
 Daar lag de draak.\
 Een ronde, dikke buik met schubben.\
-Vier korte pootjes en twee kleine vleugels.\
-Plus een enorme onderkaak.
+Vier korte pootjes en twee kleine vleugels,\
+plus een enorme onderkaak met scherpe tanden.
 
 **Rechts**
 
@@ -162,8 +162,8 @@ Hij kwam brommend overeind.
 
 ‘En nu ben ik wakker.’\
 ‘Dat ruiken we,’ grinnikte Elke. ‘Je hebt slaapadem, hihi!’\
-Boos ging de draak op zijn achterpoten staan. ‘Hoe durven jullie me zo te storen!?’\
-Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen afkwam.
+Boos ging de draak op zijn achterpoten staan. ‘Hoe durven jullie!? Kom hier!’\
+De drie avonturiers draaiden zich snel om toen de draak op hen afkwam.
 
 ### 10 — Rennen!
 
@@ -184,13 +184,13 @@ BOEM. BOEM. BOEM.\
 **Links**
 
 ‘Iedereen aan boord?’ riep Pake Jasper.\
-Oscar knikte. Philijne knikte.\
-Elke knikte het hardst.
+Oscar knikte, en Philijne ook.\
+Elke nog knikte het allerhardst.
 
 **Rechts**
 
 Pake maakte het laatste touw los.\
-De draak kwam bij de oever.\
+De draak kwam bij de oever aan.\
 Bij Oscars laars landde iets kleins.\
 Ook Patrick was aan boord.
 
@@ -199,15 +199,15 @@ Ook Patrick was aan boord.
 **Links**
 
 De Zeebries gleed over het water.\
-Oscar haalde diep adem.\
+Oscar haalde diep adem en blies een lange zucht uit.\
 ‘Zo. Die kan niet meer bij ons.’
 
 **Rechts**
 
 FLAP. FLAP.\
 Philijne keek achterom.\
-‘Oscar…’\
-Boven de golven vloog een heel dikke draak.
+‘Uhh, nou Oscar…’\
+Boven de golven vloog een heel dikke draak!
 
 ## Spreads 13–16
 
@@ -217,8 +217,8 @@ Boven de golven vloog een heel dikke draak.
 
 **Links**
 
-De Zeebries lag nog maar net aan de kade.\
-Daar kwam de draak de haven binnen.\
+De Zeebries lag nog maar net aan de kade,\
+en daar kwam de draak de haven binnen.\
 ‘Naar het kasteel!’ riep Oscar.
 
 **Rechts**
@@ -232,14 +232,15 @@ Iets kleins hupte achter hen aan.
 
 **Links**
 
+De draak had het drietal al bijna ingehaald.\
 Toen klonk het vanuit het kasteel:\
 GRAAAAAAUW!\
 De draak bleef stokstijf staan.
 
 **Rechts**
 
-‘Woont hier een… een draak!?’\
-‘Ik ben doodsbang voor draken!’\
+‘Oh jeetje wat is dat voor geluid!?’\
+‘Dat klinkt harstikke eng!’ piepte de draak.\
 Hij deed snel een stap achteruit. En nog één.\
 Voor geen goud ging hij die poort door.
 
@@ -248,13 +249,13 @@ Voor geen goud ging hij die poort door.
 **Links**
 
 De draak ging er snel ervandoor.\
-Voorzichtig keken de kinderen achter de poort.\
+Voorzichtig keken de kinderen achter de poortdeur.\
 Daar zat geen grotere draak.
 
 **Rechts**
 
 Daar zat Patrick.\
-‘KWWAAAAAAAK!’ bulderde Patrick de brulkikker.\
+‘GRAAAAAAUW!’ bulderde Patrick de brulkikker.\
 De grond schudde van het harde geluid.\
 ‘Jíj was het!’ riep Elke.
 
