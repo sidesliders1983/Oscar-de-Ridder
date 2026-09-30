@@ -3,7 +3,7 @@ status: CONCEPT
 book: book-3
 spread_number: 13
 spec_version: v002
-story_beat: "De kinderen bereiken de open kasteelpoort. Patrick hipt onopvallend mee naar binnen; de draak nadert buiten over het pad."
+story_beat: "De kinderen rennen van de afgemeerde Zeebries weg, door de open poort het kasteel in. Patrick hipt mee. Achter hen komt de draak aan in de haven; de Zeebries ligt aan de kade."
 canon_sources:
   - canon/book-3-story-canon.md
   - canon/visual-style.md
@@ -12,8 +12,8 @@ canon_sources:
 characters_present: ["Oscar","Philijne","Elke","Patrick","Draak"]
 required_canonical_objects: ["Oscars rode tuniek, blauwe broek en bruine laarsjes","houten schild met vaste groene draak","gouden saxofoon-zwaard"]
 location: "Pad van koninklijke haven naar kasteelpoort"
-composition: "De kinderen bereiken de open kasteelpoort. Patrick hipt onopvallend mee naar binnen; de draak nadert buiten over het pad."
-camera_position: "Laag schuin naar poort; de haven en afgemeerde Zeebries zichtbaar achter de vluchtlijn."
+composition: "De kinderen rennen van de afgemeerde Zeebries weg, door de open poort het kasteel in. Patrick hipt mee. Achter hen komt de draak aan in de haven; de Zeebries ligt aan de kade."
+camera_position: "Vanuit de binnenplaats naar buiten door de poort: kinderen met gezichten zichtbaar naar de camera toe, haven en afgemeerde Zeebries achter hen, draak aankomend in de haven."
 character_expressions: "Kinderen buiten adem; draak vasthoudend; Patrick volgt zonder plan."
 text_safe_area: "Onderste circa 1/3: rustig licht crème/beige, geen personages of belangrijke objecten"
 gutter_constraints: "Geen zichtbare naad; gezichten, tekst en cruciale details buiten middenvouw"
@@ -41,9 +41,9 @@ print:
 
 ## Eén illustratiemoment
 
-De kinderen bereiken de open kasteelpoort. Patrick hipt onopvallend mee naar binnen; de draak nadert buiten over het pad.
+De kinderen rennen van de afgemeerde Zeebries weg, door de open poort het kasteel in. Patrick hipt mee. Achter hen komt de draak aan in de haven; de Zeebries ligt aan de kade.
 
-**Camera:** Laag schuin naar poort; de haven en afgemeerde Zeebries zichtbaar achter de vluchtlijn.
+**Camera:** Vanuit de binnenplaats naar buiten door de poort: kinderen met gezichten zichtbaar naar de camera toe, haven en afgemeerde Zeebries achter hen, draak aankomend in de haven.
 
 **Expressies:** Kinderen buiten adem; draak vasthoudend; Patrick volgt zonder plan.
 
@@ -53,7 +53,7 @@ De Zeebries lag nog maar net vast. ‘Naar het kasteel!’ riep Oscar. Ze holden
 
 ## Afbakening
 
-Aanmeren en uitstappen liggen tussen 12 en 13. Draak is weer geland; precieze timing, pad en poortnis zijn voorstellen, geen nieuwe definitieve architectuur.
+Aanmeren en uitstappen liggen tussen 12 en 13. De draak komt aan in de haven. Vluchtrichting van boot door poort naar binnen bevestigd door auteur; precieze architectuur blijft concept.
 
 Zie [storyboard v002](../storyboard-v002.md) en [auteursbesluit](../../../canon/locations/2026-09-29-return-chase.md).
 

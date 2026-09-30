@@ -22,7 +22,7 @@ Vier overzichtsbladen bij [geschreven storyboard v002](storyboard-v002.md). Gema
 
 ## Spreads 13-16
 
-![Spreads 13-16](../../artwork/book-3/concepts/storyboard/board-13-16-v002.png)
+![Spreads 13-16](../../artwork/book-3/concepts/storyboard/board-13-16-v003.png)
 
 [Exacte prompt 4](../../prompts/illustration/storyboard-board-4-v001.md)
 
@@ -33,7 +33,6 @@ Alle 16 verhaalbeats zijn zichtbaar; Elke volgt de blonde vlechtcorrectie en de 
 - De tekstzones zijn nog te smal voor de voorgeschreven onderste circa 1/3; per uiteindelijke spread opnieuw uitzetten. Thumbnails zijn geen 3000-px productiespreads.
 - Exact schildembleem, scheepsaanzichten, masten en relatieve groottes per spread controleren; Patrick oogt in 10 te groot en Elke soms te groot naast Oscar.
 - In 08 moet het contact tussen saxofoon en steen duidelijker; 11 toont losgooien niet ondubbelzinnig.
-- In 13 lijkt de looprichting door de poort naar de haven gericht; camera/geografie corrigeren vóór uitwerking zodat de kinderen vanuit haven naar binnen vluchten.
 - Referenties zijn niet door deze generatie vervangen. Conceptvoorstellen blijven ter auteursreview.
 
 
@@ -42,3 +41,7 @@ Alle 16 verhaalbeats zijn zichtbaar; Elke volgt de blonde vlechtcorrectie en de 
 Oscar draagt in alle scènes zijn basisoutfit zonder helm of harnas. In scène 01 staat de oude uitrusting subtiel op een plank. Overige reviewpunten blijven gelden.
 
 [Revisieprompt en bronnen](../../prompts/illustration/storyboard-no-armor-v002.md). De hierboven gelinkte oorspronkelijke prompts documenteren de basisbeelden.
+
+## Scène 13 — revisie v003
+
+Vluchtrichting gecorrigeerd: kinderen naar de camera, door de poort het kasteel in; Zeebries aan de kade en draak achter hen in de haven. [Exacte revisieprompt](../../prompts/illustration/storyboard-scene-13-v003.md). Concept: uitdrukkingen nog aanscherpen naar buiten adem; kinderen ogen nu vrolijk.
