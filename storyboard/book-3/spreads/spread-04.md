@@ -43,9 +43,11 @@ print:
 
 ### Actuele revisie vanuit auteurswerktekst — 30 september 2026
 
+Nieuwste perspectiefrevisie: lagere camera toont de route naar rechtsboven een dichtbegroeid tropisch regenwoud in. Vier landingplaatsen in zigzag; iedere afdruk zelf draait met de looprichting mee, kleinere voorlobben naar rechtsboven en grotere verbonden achterlobben naar de kijker. Afdrukken worden kleiner in de diepte. Patrick aan het einde onder een breed blad, afgeschermd van de kinderen; zij onderzoeken de nabije afdrukken. Zie canon/locations/patrick-mud-tracks.md en prompts/illustration/storyboard-mud-perspective-v003.md.
+
 Vier afzonderlijke afdrukken in een vooruitlopend links/rechts-zigzagspoor. Iedere ronde waterplas heeft twee grotere achterlobben aan weerszijden, met water dat aansluit op de centrale plas, en twee kleinere voorlobben. Geen vier identieke radiale tenen. Patrick onzichtbaar voor de kinderen. Deze anatomische verfijning volgt de nieuwe kikkerreferentie en blauwe auteursomlijning.
 
-Nieuw concept: [board-01-04-v008.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v008.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-01-04-v010.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v010.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 

@@ -45,7 +45,7 @@ print:
 
 Oscar kijkt over de boeg alsof hij het schip hoort kraken; Elke kijkt naar de drakenberg. Patrick tussen touw, onopgemerkt.
 
-Nieuw concept: [board-01-04-v008.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v008.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-01-04-v010.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v010.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
