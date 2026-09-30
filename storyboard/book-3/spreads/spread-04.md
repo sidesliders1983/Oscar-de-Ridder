@@ -59,21 +59,21 @@ De kinderen onderzoeken vier afzonderlijke modderafdrukken in een vooruitlopend 
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Op het eiland liepen ze tussen de planten.\
 Toen klonk achter hen: PLOENS!\
 Snel keken ze om zich heen en zagen ze\
-4 grote voetafdrukken in de natte modder staan.
+vier grote voetafdrukken in de natte modder staan.
 
 **Rechts**
 
 ‘Wat zijn dat?’ fluisterde Philijne.\
 ‘Dat zijn afdrukken van een drakenpoot!’ zei Oscar.\
 Elke keek naar het waterlaagje in de modderige voetstappen.\
-‘Dan heeft hij nu vast natte voeten.’, giechelde ze.
+‘Dan heeft hij nu vast natte voeten,’ giechelde ze.
 
 ## Voorstellen ter goedkeuring — V4, V5
 

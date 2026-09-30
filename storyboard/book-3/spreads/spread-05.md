@@ -59,7 +59,7 @@ Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onde
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -71,9 +71,9 @@ Hij wees naar het pad dat door de struiken doorliep.
 **Rechts**
 
 Ze volgden het geritsel de berg op.\
-‘Snel erachter aan! Het kan niet ver meer zijn.\
+‘Snel erachteraan! Het kan niet ver meer zijn.\
 Ik denk dat ik verderop een grot zie.’\
-Patrick de Brulkikker keek onder een blad de avonturiers na.
+Patrick de brulkikker keek onder een blad de avonturiers na.
 
 ## Voorstellen ter goedkeuring — V4, V5
 

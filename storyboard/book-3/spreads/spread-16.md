@@ -57,7 +57,7 @@ Oscar hurkt naast Patrick op de rustige binnenplaats, Philijne en Elke dichtbij.
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -70,7 +70,7 @@ Oscar hurkte naast Patrick.\
 Patrick knipperde.\
 ‘Kwaak.’\
 ‘Afgesproken,’ zei Elke.\
-‘Maar dan wel een beetje zachter alsjeblieft.’
+‘Maar dan wel een beetje zachter, alsjeblieft.’
 
 ## Afbakening
 

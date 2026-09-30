@@ -59,19 +59,19 @@ De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter e
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Hoog in de bergwand zat een grote donkere opening.\
-Van binnen klonk een diepe ronkend geluid .\
+Van binnen klonk een diep, ronkend geluid.\
 De kinderen hielden hun adem in.
 
 **Rechts**
 
 Hrrrrrr. Hrrrrrr.\
 ‘Hier woont iemand,’ fluisterde Elke.\
-‘…klinkt wel als alsof die aan het stofzuigen is.’ grapte Philijne.
+‘… Klinkt wel alsof die aan het stofzuigen is,’ grapte Philijne.
 
 ## Voorstellen ter goedkeuring — V4, V6
 

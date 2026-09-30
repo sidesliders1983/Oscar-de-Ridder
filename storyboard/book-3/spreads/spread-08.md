@@ -59,14 +59,14 @@ Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
-De draak sliep op een bult van edelstenen en gouden munten,\
+De draak sliep op een bult van edelstenen en gouden munten.\
 Oscar zag een edelsteen voor zijn voeten liggen.\
 Hij bukte en reikte naar de grond om hem te pakken.\
-Zijn saxofoon zwaaide aan het schouderbandje. naar voren.
+Zijn saxofoon zwaaide aan het schouderbandje naar voren.
 
 **Rechts**
 

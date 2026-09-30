@@ -59,7 +59,7 @@ De kinderen kijken vanuit de kamer naar de rokende vulkaan; het oude briefje lig
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -73,7 +73,7 @@ Daar klonk het gebulder weer.
 Elke hield haar hand achter haar oor.\
 ‘Slaapt hij dan zo hard?’\
 ‘Dat gaan we uitzoeken,’ zei Oscar.\
-‘Ja!! We gaan weer op avontuur!’ Riepen ze alle drie tegelijk.
+‘Ja! We gaan weer op avontuur!’ riepen ze alle drie tegelijk.
 
 ## Voorstellen ter goedkeuring — V1
 

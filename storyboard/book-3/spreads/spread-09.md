@@ -59,7 +59,7 @@ Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -71,9 +71,9 @@ Hij kwam brommend overeind.
 **Rechts**
 
 ‘En nu ben ik wakker.’\
-‘Dat ruiken we,’ grinnikte Elke, ‘je hebt slaapadem hihi’.\
+‘Dat ruiken we,’ grinnikte Elke. ‘Je hebt slaapadem, hihi!’\
 Boos kwam de draak overeind. ‘Hoe durven jullie me zo te storen!?’\
-Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen af kwam.
+Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen afkwam.
 
 ## Voorstellen ter goedkeuring — V8
 

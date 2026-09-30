@@ -57,7 +57,7 @@ De kinderen ontdekken Patrick laag bij de binnenkant van de poort, zijn mond net
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -68,7 +68,7 @@ Daar zat geen grotere draak.
 **Rechts**
 
 Daar zat Patrick.\
-‘KWWAAAAAAAK.’ Bulderde Patrick de Brulkikker.\
+‘KWWAAAAAAAK!’ bulderde Patrick de brulkikker.\
 De grond schudde van het harde geluid.\
 ‘Jíj was het!’ riep Elke.
 

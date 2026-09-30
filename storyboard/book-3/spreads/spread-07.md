@@ -59,12 +59,12 @@ De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang.
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Daar lag de draak.\
-Een ronde dikke buik met schubben,’\
+Een ronde, dikke buik met schubben.\
 Vier korte pootjes en twee kleine vleugels.\
 Plus een enorme onderkaak.
 

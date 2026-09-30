@@ -1,6 +1,6 @@
 # Gebulder in de Bergen — voorleestekst v002
 
-Status: auteurswerktekst, nog in redactie. Overgenomen uit het door de auteur aangepaste Word-document op 30 september 2026. Spelling, interpunctie en formuleringen zijn behouden; alleen de letterlijke afsluitende backslashes uit de eerdere export zijn vervangen door regelafbrekingen. Het Word-werkbestand is niet gewijzigd. De oude inleiding van Word is niet overgenomen, omdat onder meer het voorwerp in scène 08 inmiddels een edelsteen is.
+Status: auteurswerktekst, nog in redactie. Overgenomen uit het door de auteur aangepaste Word-document op 30 september 2026. Daarna op verzoek van de auteur gecorrigeerd op interpunctie, spelling en kleine grammaticale fouten; vertelstem, grappen en verhaallijn zijn behouden. Het Word-werkbestand is niet gewijzigd. De oude inleiding van Word is niet overgenomen, omdat onder meer het voorwerp in scène 08 inmiddels een edelsteen is.
 
 Lees links, daarna rechts. Koppen zijn redactielabels.
 
@@ -18,7 +18,7 @@ Daar klonk het gebulder weer.
 Elke hield haar hand achter haar oor.\
 ‘Slaapt hij dan zo hard?’\
 ‘Dat gaan we uitzoeken,’ zei Oscar.\
-‘Ja!! We gaan weer op avontuur!’ Riepen ze alle drie tegelijk.
+‘Ja! We gaan weer op avontuur!’ riepen ze alle drie tegelijk.
 
 ## 02 — Een kruimel voor Patrick
 
@@ -31,11 +31,11 @@ Een kikker keek hongerig naar zijn appelflap.
 
 **Rechts**
 
-Oscar brak een stukje af. Alsjeblieft, kleine kikker.\
-Jij zult wel honger hebben’\
+Oscar brak een stukje af. ‘Alsjeblieft, kleine kikker.\
+Jij zult wel honger hebben.’\
 Hap! Dat smaakte naar meer.\
-Patrick de kicker hopte achter Oscar aan\
-Stiekem mee de zeebries op…
+Patrick de kikker hopte achter Oscar aan.\
+Stiekem mee De Zeebries op…
 
 ## 03 — Naar Drakentand-eiland
 
@@ -44,14 +44,14 @@ Stiekem mee de zeebries op…
 Pake Jasper stuurde De Zeebries de haven uit.\
 Het kasteel werd kleiner en de berg werd groter.\
 ‘Daar gaan we!’ zei Philijne.\
-Elke ging op haar tenen staan, ‘Ik zie de drakenberg al!
+Elke ging op haar tenen staan. ‘Ik zie de Drakenberg al!’
 
 **Rechts**
 
 Tussen het touw zaten twee ronde ogen.\
 ‘Kwaaaakk!’ hoorden de kinderen plotseling.\
-Oscar keek over de boeg van het schip,\
-‘Wajoo! Die boot kraakt zeg! Die kan wel een opknapbeurtje gebruiken, Pake!
+Oscar keek over de boeg van het schip.\
+‘Wajoo! Die boot kraakt, zeg! Die kan wel een opknapbeurtje gebruiken, Pake!’
 
 ## 04 — Plons!
 
@@ -60,14 +60,14 @@ Oscar keek over de boeg van het schip,\
 Op het eiland liepen ze tussen de planten.\
 Toen klonk achter hen: PLOENS!\
 Snel keken ze om zich heen en zagen ze\
-4 grote voetafdrukken in de natte modder staan.
+vier grote voetafdrukken in de natte modder staan.
 
 **Rechts**
 
 ‘Wat zijn dat?’ fluisterde Philijne.\
 ‘Dat zijn afdrukken van een drakenpoot!’ zei Oscar.\
 Elke keek naar het waterlaagje in de modderige voetstappen.\
-‘Dan heeft hij nu vast natte voeten.’, giechelde ze.
+‘Dan heeft hij nu vast natte voeten,’ giechelde ze.
 
 ## 05 — Het ritselende pad
 
@@ -81,30 +81,30 @@ Hij wees naar het pad dat door de struiken doorliep.
 **Rechts**
 
 Ze volgden het geritsel de berg op.\
-‘Snel erachter aan! Het kan niet ver meer zijn.\
+‘Snel erachteraan! Het kan niet ver meer zijn.\
 Ik denk dat ik verderop een grot zie.’\
-Patrick de Brulkikker keek onder een blad de avonturiers na.
+Patrick de brulkikker keek onder een blad de avonturiers na.
 
 ## 06 — Bij de drakengrot
 
 **Links**
 
 Hoog in de bergwand zat een grote donkere opening.\
-Van binnen klonk een diepe ronkend geluid .\
+Van binnen klonk een diep, ronkend geluid.\
 De kinderen hielden hun adem in.
 
 **Rechts**
 
 Hrrrrrr. Hrrrrrr.\
 ‘Hier woont iemand,’ fluisterde Elke.\
-‘…klinkt wel als alsof die aan het stofzuigen is.’ grapte Philijne.
+‘… Klinkt wel alsof die aan het stofzuigen is,’ grapte Philijne.
 
 ## 07 — Daar ligt hij
 
 **Links**
 
 Daar lag de draak.\
-Een ronde dikke buik met schubben,’\
+Een ronde, dikke buik met schubben.\
 Vier korte pootjes en twee kleine vleugels.\
 Plus een enorme onderkaak.
 
@@ -119,10 +119,10 @@ Voorzichtig zette Oscar een stap de grot in.
 
 **Links**
 
-De draak sliep op een bult van edelstenen en gouden munten,\
+De draak sliep op een bult van edelstenen en gouden munten.\
 Oscar zag een edelsteen voor zijn voeten liggen.\
 Hij bukte en reikte naar de grond om hem te pakken.\
-Zijn saxofoon zwaaide aan het schouderbandje. naar voren.
+Zijn saxofoon zwaaide aan het schouderbandje naar voren.
 
 **Rechts**
 
@@ -143,9 +143,9 @@ Hij kwam brommend overeind.
 **Rechts**
 
 ‘En nu ben ik wakker.’\
-‘Dat ruiken we,’ grinnikte Elke, ‘je hebt slaapadem hihi’.\
+‘Dat ruiken we,’ grinnikte Elke. ‘Je hebt slaapadem, hihi!’\
 Boos kwam de draak overeind. ‘Hoe durven jullie me zo te storen!?’\
-Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen af kwam.
+Oscar, Philijne en Elke draaiden zich snel om toen de draak op hen afkwam.
 
 ## 10 — Rennen!
 
@@ -216,7 +216,7 @@ De draak bleef stokstijf staan.
 
 **Rechts**
 
-‘Woont hier, een … een draak!?’\
+‘Woont hier een… een draak!?’\
 ‘Ik ben doodsbang voor draken!’\
 Hij deed snel een stap achteruit. En nog één.\
 Voor geen goud ging hij die poort door.
@@ -232,7 +232,7 @@ Daar zat geen grotere draak.
 **Rechts**
 
 Daar zat Patrick.\
-‘KWWAAAAAAAK.’ Bulderde Patrick de Brulkikker.\
+‘KWWAAAAAAAK!’ bulderde Patrick de brulkikker.\
 De grond schudde van het harde geluid.\
 ‘Jíj was het!’ riep Elke.
 
@@ -249,4 +249,4 @@ Oscar hurkte naast Patrick.\
 Patrick knipperde.\
 ‘Kwaak.’\
 ‘Afgesproken,’ zei Elke.\
-‘Maar dan wel een beetje zachter alsjeblieft.’
+‘Maar dan wel een beetje zachter, alsjeblieft.’

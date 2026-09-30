@@ -57,7 +57,7 @@ Een enorm gebulder klinkt vanuit de donkere poortdoorgang; de draak deinst buite
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -67,7 +67,7 @@ De draak bleef stokstijf staan.
 
 **Rechts**
 
-‘Woont hier, een … een draak!?’\
+‘Woont hier een… een draak!?’\
 ‘Ik ben doodsbang voor draken!’\
 Hij deed snel een stap achteruit. En nog één.\
 Voor geen goud ging hij die poort door.

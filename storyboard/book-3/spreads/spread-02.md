@@ -59,7 +59,7 @@ Oscar hurkt bij Patrick en houdt een stukje appelflap voor hem; achter hen ligt 
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
@@ -70,11 +70,11 @@ Een kikker keek hongerig naar zijn appelflap.
 
 **Rechts**
 
-Oscar brak een stukje af. Alsjeblieft, kleine kikker.\
-Jij zult wel honger hebben’\
+Oscar brak een stukje af. ‘Alsjeblieft, kleine kikker.\
+Jij zult wel honger hebben.’\
 Hap! Dat smaakte naar meer.\
-Patrick de kicker hopte achter Oscar aan\
-Stiekem mee de zeebries op…
+Patrick de kikker hopte achter Oscar aan.\
+Stiekem mee De Zeebries op…
 
 ## Voorstellen ter goedkeuring — V2, V3
 

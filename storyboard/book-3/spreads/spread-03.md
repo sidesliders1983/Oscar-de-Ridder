@@ -59,21 +59,21 @@ De Zeebries vaart naar het eiland; de kinderen kijken naar de vulkaan en Patrick
 
 ## Voorleestekst — auteurswerktekst v002
 
-Overgenomen uit de aangepaste Word. Spelling en formuleringen behouden; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
+Overgenomen uit de aangepaste Word en op auteursverzoek gecorrigeerd op interpunctie, spelling en kleine taalfouten; nog in redactie. Zie [volledige tekst](../voorleestekst-v002.md).
 
 **Links**
 
 Pake Jasper stuurde De Zeebries de haven uit.\
 Het kasteel werd kleiner en de berg werd groter.\
 ‘Daar gaan we!’ zei Philijne.\
-Elke ging op haar tenen staan, ‘Ik zie de drakenberg al!
+Elke ging op haar tenen staan. ‘Ik zie de Drakenberg al!’
 
 **Rechts**
 
 Tussen het touw zaten twee ronde ogen.\
 ‘Kwaaaakk!’ hoorden de kinderen plotseling.\
-Oscar keek over de boeg van het schip,\
-‘Wajoo! Die boot kraakt zeg! Die kan wel een opknapbeurtje gebruiken, Pake!
+Oscar keek over de boeg van het schip.\
+‘Wajoo! Die boot kraakt, zeg! Die kan wel een opknapbeurtje gebruiken, Pake!’
 
 ## Voorstellen ter goedkeuring — V3, V4
 
