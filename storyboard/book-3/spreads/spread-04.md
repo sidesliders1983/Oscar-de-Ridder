@@ -37,6 +37,8 @@ print:
 
 # 04 — Plons!
 
+Testspread op A3: [PDF met tekst](../../../output/pdf/boek-3-testspread-04-a3-v001.pdf), [illustratie](../../../artwork/book-3/concepts/spreads/spread-04-test-a3-v001.png), [prompt en resolutiebeperking](../../../prompts/illustration/testspread-04-a3-v001.md). Status concept. PDF 420 × 297 mm; beeld 1491 × 1055 px, circa 90 ppi op A3, dus nog onder productie-eis. Tekst apart gezet als vector.
+
 **CONCEPT — alle spreadtekst en concrete enscenering zijn voorstellen.** De verhaallijn volgt de working canon; dit bestand is geen definitief storyboard.
 
 ## Eén illustratiemoment
