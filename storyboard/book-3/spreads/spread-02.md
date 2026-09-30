@@ -73,5 +73,10 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 
 ## Review
 
-Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
+### Auteurscorrectie — 30 september 2026
 
+De draak op het schild van De Zeebries is groen, nooit blauw; consistent met scène 03 en Oscars groene draak.
+
+Verwerkt als concept in board-01-04-v003.png; geen definitieve artworkgoedkeuring.
+
+Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.

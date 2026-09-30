@@ -73,6 +73,12 @@ Eén doorlopende scène, A3 liggend 420 × 297 mm, circa 1.414:1, minimaal 3000 
 
 ## Review
 
+### Auteurscorrectie — 30 september 2026
+
+Saxofoon en houten schild staan klein tegen de achtergrondmuur, niet op tafel. Saxofoon heeft herkenbare gebogen hals, kleppen, U-bocht en opwaartse beker. Voorgrond rustig houden rond kinderen en briefje.
+
+Verwerkt als concept in board-01-04-v003.png; geen definitieve artworkgoedkeuring.
+
 Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst voorstelkeuzes, verhaalbegrip zonder tekst, continuïteit en definitieve referenties.
 
 

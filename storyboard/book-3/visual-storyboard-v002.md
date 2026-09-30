@@ -4,7 +4,7 @@ Vier overzichtsbladen bij [geschreven storyboard v002](storyboard-v002.md). Gema
 
 ## Spreads 01-04
 
-![Spreads 01-04](../../artwork/book-3/concepts/storyboard/board-01-04-v002.png)
+![Spreads 01-04](../../artwork/book-3/concepts/storyboard/board-01-04-v003.png)
 
 [Exacte prompt 1](../../prompts/illustration/storyboard-board-1-v001.md)
 
@@ -45,3 +45,7 @@ Oscar draagt in alle scènes zijn basisoutfit zonder helm of harnas. In scène 0
 ## Scène 13 — revisie v003
 
 Vluchtrichting gecorrigeerd: kinderen naar de camera, door de poort het kasteel in; Zeebries aan de kade en draak achter hen in de haven. [Exacte revisieprompt](../../prompts/illustration/storyboard-scene-13-v003.md). Concept: uitdrukkingen nog aanscherpen naar buiten adem; kinderen ogen nu vrolijk.
+
+## Objectcorrecties scènes 01–04 — v003
+
+Saxofoon en schild in 01 naar achtergrond; scheepsdraak in 02 groen; saxofoon in 04 met schouderband. [Prompt en controle](../../prompts/illustration/storyboard-props-01-04-v003.md). Bij uitwerking saxofoon in 02 terugbrengen: deze is onbedoeld verdwenen in de bewerking.
