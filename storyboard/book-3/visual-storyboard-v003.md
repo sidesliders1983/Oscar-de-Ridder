@@ -1,5 +1,7 @@
 # Visueel storyboard — concept v003
 
+Richtingscorrectie v011: alleen de vier afdrukken verder naar rechtsboven gedraaid. Kleine voorlobben duidelijk aan de rechterzijde, grotere achterlobben links/linksonder; camera en regenwoud behouden. [Prompt](../../prompts/illustration/storyboard-mud-direction-v004.md). Concept ter beoordeling.
+
 Nieuwste scène 04: board-01-04-v010. Lagere camera kijkt langs het spoor naar rechtsboven het dichte regenwoud in; ook de afdrukken zelf wijzen vooruit langs die richting en worden kleiner in de verte. Patrick zit aan het einde onder een blad buiten de zichtlijn van de kinderen. [Prompt en richtingsreferentie](../../prompts/illustration/storyboard-mud-perspective-v003.md). Concept ter beoordeling; print-PDF v001 bevat het eerdere beeld.
 
 Laatste beeldrevisie scène 04: board-01-04-v008. Twee grotere achterlobben sluiten met hun water aan op de ronde kern; twee kleinere voorlobben geven de afdruk een duidelijke voor- en achterkant. [Prompt en revisie](../../prompts/illustration/storyboard-mud-anatomy-v002.md). Nieuw concept ter beoordeling. De eerder gemaakte print-PDF v001 bevat nog het vorige beeld.
@@ -16,7 +18,7 @@ De bladversies verschillen door gerichte revisies. Blad 13–16 is bestand v006;
 
 ## Spreads 01–04
 
-![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v010.png)
+![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v011.png)
 
 ### 01 — Het briefje bromt na
 

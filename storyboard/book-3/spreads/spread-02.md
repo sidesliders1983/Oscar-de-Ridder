@@ -45,7 +45,7 @@ print:
 
 Appelflapcontact met Patrick behouden. Pake aanwezig; sax aan band bij Oscar. Mama wordt niet toegevoegd aan het beeld.
 
-Nieuw concept: [board-01-04-v010.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v010.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-01-04-v011.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v011.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
