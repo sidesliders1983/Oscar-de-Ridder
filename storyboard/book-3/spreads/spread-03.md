@@ -51,7 +51,20 @@ De Zeebries vaart naar het eiland; de kinderen kijken naar de vulkaan en Patrick
 
 ## Voorleestekst — voorstel
 
-De Zeebries gleed over het water. Het paleis werd kleiner. De berg werd groter. En tussen het touw zat een verstekeling.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Pake Jasper stuurde De Zeebries de haven uit.\
+Het kasteel werd kleiner.\
+De berg werd groter.
+
+**Rechts**
+
+‘Daar gaan we,’ zei Philijne.\
+Elke ging op haar tenen staan.\
+Tussen het touw zaten twee ronde ogen.\
+Er voer nog iemand mee.
 
 ## Voorstellen ter goedkeuring — V3, V4
 

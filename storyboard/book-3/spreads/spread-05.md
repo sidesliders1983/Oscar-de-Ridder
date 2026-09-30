@@ -51,7 +51,20 @@ Kinderen kiezen een opening in het groen waar bladeren bewegen; Patrick zit onde
 
 ## Voorleestekst — voorstel
 
-Ritsel, ritsel. Daar bewoog het groen weer. ‘Deze kant!’ zei Oscar. Ze volgden het geluid, steeds verder naar de berg.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Ritsel. Ritsel.\
+Verderop bewogen de bladeren.\
+Oscar bleef staan.
+
+**Rechts**
+
+‘Daar gaat iets!’\
+Hij wees naar het pad.\
+Ze volgden het geritsel de berg op.\
+Achter een blad stak iets groens uit.
 
 ## Voorstellen ter goedkeuring — V4, V5
 

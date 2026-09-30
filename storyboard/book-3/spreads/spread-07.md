@@ -51,7 +51,21 @@ De slapende ronde draak ligt op de grotvloer; kinderen klein bij ingang.
 
 ## Voorleestekst — voorstel
 
-Daar lag de draak. Een ronde buik. Korte pootjes. Kleine vleugels. En hij sliep. ‘Het briefje had gelijk,’ fluisterde Philijne.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Daar lag de draak.\
+Een ronde buik. Korte pootjes.\
+Twee kleine vleugels.\
+En een enorme onderkaak.
+
+**Rechts**
+
+Zijn buik ging op en neer.\
+‘Het briefje had gelijk,’ fluisterde Philijne.\
+‘Hij slaapt nog.’\
+Oscar zette heel voorzichtig een stap.
 
 ## Voorstellen ter goedkeuring — V6
 

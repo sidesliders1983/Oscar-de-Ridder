@@ -49,7 +49,19 @@ De kinderen rennen langs de camera bergaf, met Patrick op de voorgrond en de bro
 
 ## Voorleestekst — voorstel
 
-‘Naar de Zeebries!’ riep Oscar. Achter hen bonsden korte drakenpoten. Boem. Boem. Boem.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+‘Naar de Zeebries!’ riep Oscar.\
+Ze holden het pad af.\
+Achter hen bonsden drakenpoten.
+
+**Rechts**
+
+BOEM. BOEM. BOEM.\
+‘Hij heeft korte pootjes!’ hijgde Elke.\
+‘Maar hij gaat wel hard!’ riep Philijne.
 
 ## Afbakening
 

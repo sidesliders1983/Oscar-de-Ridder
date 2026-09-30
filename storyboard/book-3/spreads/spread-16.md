@@ -49,7 +49,20 @@ Oscar hurkt naast Patrick op de rustige binnenplaats, Philijne en Elke dichtbij.
 
 ## Voorleestekst — voorstel
 
-Oscar glimlachte. ‘Kom jij de volgende keer weer mee?’ Patrick knipperde. ‘Kwaak.’ ‘Afgesproken,’ zei Elke.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Op de binnenplaats was het weer rustig.\
+Oscar hurkte naast Patrick.\
+‘Kom jij de volgende keer weer mee?’
+
+**Rechts**
+
+Patrick knipperde.\
+‘Kwaak.’\
+‘Afgesproken,’ zei Elke.\
+‘Maar dan wel een beetje zachter.’
 
 ## Afbakening
 

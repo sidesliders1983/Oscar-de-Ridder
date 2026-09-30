@@ -49,7 +49,20 @@ De kinderen rennen van de afgemeerde Zeebries weg, door de open poort het kastee
 
 ## Voorleestekst — voorstel
 
-De Zeebries lag nog maar net vast. ‘Naar het kasteel!’ riep Oscar. Ze holden door de poort. Iets kleins hupte mee.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+De Zeebries lag nog maar net aan de kade.\
+Daar kwam de draak de haven binnen.\
+‘Naar het kasteel!’ riep Oscar.
+
+**Rechts**
+
+Weg van de boot.\
+Door de poort.\
+De kinderen renden naar binnen.\
+Iets kleins hupte achter hen aan.
 
 ## Afbakening
 

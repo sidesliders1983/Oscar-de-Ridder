@@ -49,7 +49,20 @@ De kinderen ontdekken Patrick laag bij de binnenkant van de poort, zijn mond net
 
 ## Voorleestekst — voorstel
 
-Achter de poort zat geen grotere draak. Daar zat Patrick. ‘Kwaak.’ ‘Jíj was het!’ riep Elke.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+De draak was ervandoor.\
+Voorzichtig keken de kinderen achter de poort.\
+Daar zat geen grotere draak.
+
+**Rechts**
+
+Daar zat Patrick.\
+‘Kwaak.’\
+‘Jíj was het!’ riep Elke.\
+Oscar keek naar dat kleine bekje.
 
 ## Afbakening
 

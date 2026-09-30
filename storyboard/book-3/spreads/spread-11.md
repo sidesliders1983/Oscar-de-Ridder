@@ -49,7 +49,20 @@ De kinderen staan net aan boord terwijl Pake de laatste tros losmaakt; Patrick z
 
 ## Voorleestekst — voorstel
 
-‘Iedereen aan boord?’ riep Pake. De laatste tros ging los. Bij Oscars laars landde een kleine verstekeling.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+‘Iedereen aan boord?’ riep Pake Jasper.\
+Oscar knikte. Philijne knikte.\
+Elke knikte het hardst.
+
+**Rechts**
+
+Pake maakte het laatste touw los.\
+De draak kwam bij de oever.\
+Bij Oscars laars landde iets kleins.\
+Ook Patrick was aan boord.
 
 ## Afbakening
 

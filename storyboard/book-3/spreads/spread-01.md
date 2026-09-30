@@ -51,7 +51,20 @@ De kinderen kijken vanuit de kamer naar de rokende vulkaan; het oude briefje lig
 
 ## Voorleestekst — voorstel
 
-‘De draak slaapt nog,’ las Oscar. Maar van achter het water klonk: BRRRROEM. ‘Slaapt hij dan zo hard?’ vroeg Elke.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Oscar legde het oude briefje op tafel.\
+‘De draak slaapt nog,’ las hij.\
+Philijne keek naar de berg aan de overkant.\
+Daar klonk het gebulder weer.
+
+**Rechts**
+
+Elke hield haar hand achter haar oor.\
+‘Slaapt hij dan zo hard?’\
+‘Dat gaan we uitzoeken,’ zei Oscar.
 
 ## Voorstellen ter goedkeuring — V1
 

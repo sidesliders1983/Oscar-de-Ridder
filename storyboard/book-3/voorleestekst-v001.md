@@ -1,16 +1,22 @@
-# Visueel storyboard — concept v002
+# Gebulder in de Bergen — voorleestekst v001
 
-Vier overzichtsbladen bij [geschreven storyboard v002](storyboard-v002.md). Gemaakt met ingebouwde image_gen, 30 september 2026. Dit zijn compositieconcepten, geen goedgekeurde illustraties of drukbestanden. De afzonderlijke spreadspecs blijven leidend.
+Status: CONCEPT TER BESPREKING. Alle dialogen en tekstuitwerkingen zijn voorstellen, geen nieuwe canon. Gebaseerd op het actuele 16-spreadstoryboard en de auteurscorrecties tot en met GRAAAAAAUW! Deze concepttekst is ook opgenomen in het visuele storyboard en de 16 spreadspecs.
 
-## Spreads 01-04
+## Opmaak en ritme
 
-![Spreads 01-04](../../artwork/book-3/concepts/storyboard/board-01-04-v003.png)
+Referentie: zeven aangeleverde boek-2-spreads (Foto 2 t/m Foto 8). Doorlopende illustratie boven; onderste circa derde warm crème, met twee afzonderlijke tekstblokken. Lees links eerst, dan rechts. Korte regels, ruime regelafstand en alinea-afstand; incidenteel groot klankwoord. Titels hieronder zijn redactielabels, niet automatisch op de boekpagina. Definitieve regelafbreking volgt bij opmaak; geen vaste corpsgrootte uit screenshots afleiden.
 
-[Exacte prompt 1](../../prompts/illustration/storyboard-board-1-v001.md)
+Doel: circa 30–50 woorden per spread, korter bij spanning. Illustratie draagt details; tekst geeft ritme, dialoog en grap. Geen extra scène in het beeld nodig voor korte overgangen in de tekst. Boek-2-beelden zijn uitsluitend opmaak-/toonreferenties: eerdere bruiloft, houten zwaard, haar en uitrusting veranderen de boek-3-canon niet.
 
-### Voorleestekst — concept v001
+## Redactionele aandachtspunten
 
-#### 1. Het briefje bromt na
+- Patrick vroeg zichtbaar, zijn grote stem pas onthuld op 15. Geen bewuste reddingslist.
+- 08: bukken en zwaaien aan band bevestigd; wat Oscar wil pakken is nog open en wordt hier niet benoemd.
+- 14: GRAAAAAAUW! komt van verborgen Patrick; alleen de draak vermoedt een grotere draak.
+- Appelflapmoment, precieze dialogen en slotgrap blijven voorstellen uit de storyboarduitwerking. Geen automatische goedkeuring van beelden of canon.
+- Referentiebeelden bevatten tegenstrijdige oude verhaalgegevens; daarvoor geldt de bestaande boek-3-canon.
+
+## 01 — Het briefje bromt na
 
 **Links**
 
@@ -25,7 +31,7 @@ Elke hield haar hand achter haar oor.\
 ‘Slaapt hij dan zo hard?’\
 ‘Dat gaan we uitzoeken,’ zei Oscar.
 
-#### 2. Een kruimel voor Patrick
+## 02 — Een kruimel voor Patrick
 
 **Links**
 
@@ -40,7 +46,7 @@ Oscar brak een stukje af.\
 Hap.\
 Dat smaakte naar meer.
 
-#### 3. Naar Drakentand-eiland
+## 03 — Naar Drakentand-eiland
 
 **Links**
 
@@ -55,7 +61,7 @@ Elke ging op haar tenen staan.\
 Tussen het touw zaten twee ronde ogen.\
 Er voer nog iemand mee.
 
-#### 4. Plons!
+## 04 — Plons!
 
 **Links**
 
@@ -70,16 +76,7 @@ PLOENS!
 Elke keek naar het water.\
 ‘Dan heeft hij nu een natte voet.’
 
-
-## Spreads 05-08
-
-![Spreads 05-08](../../artwork/book-3/concepts/storyboard/board-05-08-v003.png)
-
-[Exacte prompt 2](../../prompts/illustration/storyboard-board-2-v001.md)
-
-### Voorleestekst — concept v001
-
-#### 5. Het ritselende pad
+## 05 — Het ritselende pad
 
 **Links**
 
@@ -94,7 +91,7 @@ Hij wees naar het pad.\
 Ze volgden het geritsel de berg op.\
 Achter een blad stak iets groens uit.
 
-#### 6. Bij de drakengrot
+## 06 — Bij de drakengrot
 
 **Links**
 
@@ -109,7 +106,7 @@ Hrrrrrr.\
 ‘Hier woont iemand,’ fluisterde Elke.\
 ‘Iemand met een grote neus.’
 
-#### 7. Daar ligt hij
+## 07 — Daar ligt hij
 
 **Links**
 
@@ -125,7 +122,7 @@ Zijn buik ging op en neer.\
 ‘Hij slaapt nog.’\
 Oscar zette heel voorzichtig een stap.
 
-#### 8. Ting!
+## 08 — Ting!
 
 **Links**
 
@@ -140,16 +137,7 @@ Precies tegen een rots.\
 Oscar hield zijn adem in.\
 Eén groot oog ging open.
 
-
-## Spreads 09-12
-
-![Spreads 09-12](../../artwork/book-3/concepts/storyboard/board-09-12-v003.png)
-
-[Exacte prompt 3](../../prompts/illustration/storyboard-board-3-v001.md)
-
-### Voorleestekst — concept v001
-
-#### 9. Een boze slaper
+## 09 — Een boze slaper
 
 **Links**
 
@@ -164,7 +152,7 @@ Hij kwam brommend overeind.\
 ‘En nu ben ik wakker.’\
 ‘Dat zien we,’ piepte Elke.
 
-#### 10. Rennen!
+## 10 — Rennen!
 
 **Links**
 
@@ -178,7 +166,7 @@ BOEM. BOEM. BOEM.\
 ‘Hij heeft korte pootjes!’ hijgde Elke.\
 ‘Maar hij gaat wel hard!’ riep Philijne.
 
-#### 11. Losgooien!
+## 11 — Losgooien!
 
 **Links**
 
@@ -193,7 +181,7 @@ De draak kwam bij de oever.\
 Bij Oscars laars landde iets kleins.\
 Ook Patrick was aan boord.
 
-#### 12. Hij komt achter ons aan!
+## 12 — Hij komt achter ons aan!
 
 **Links**
 
@@ -208,16 +196,7 @@ Philijne keek achterom.\
 ‘Oscar…’\
 Boven de golven vloog een heel dikke draak.
 
-
-## Spreads 13-16
-
-![Spreads 13-16](../../artwork/book-3/concepts/storyboard/board-13-16-v005.png)
-
-[Exacte prompt 4](../../prompts/illustration/storyboard-board-4-v001.md)
-
-### Voorleestekst — concept v001
-
-#### 13. Naar de poort!
+## 13 — Naar de poort!
 
 **Links**
 
@@ -232,7 +211,7 @@ Door de poort.\
 De kinderen renden naar binnen.\
 Iets kleins hupte achter hen aan.
 
-#### 14. Een grotere draak?
+## 14 — Een grotere draak?
 
 **Links**
 
@@ -247,7 +226,7 @@ Hij deed een stap achteruit.\
 En nog één.\
 Voor geen goud ging hij die poort door.
 
-#### 15. Patrick?!
+## 15 — Patrick?!
 
 **Links**
 
@@ -262,7 +241,7 @@ Daar zat Patrick.\
 ‘Jíj was het!’ riep Elke.\
 Oscar keek naar dat kleine bekje.
 
-#### 16. Een plek voor de held
+## 16 — Een plek voor de held
 
 **Links**
 
@@ -276,36 +255,3 @@ Patrick knipperde.\
 ‘Kwaak.’\
 ‘Afgesproken,’ zei Elke.\
 ‘Maar dan wel een beetje zachter.’
-
-
-## Reviewpunten vóór uitwerking
-
-Alle 16 verhaalbeats zijn zichtbaar; Elke volgt de blonde vlechtcorrectie en de draak heeft de vooruitstekende onderkaak. De overtocht en kasteelclimax zijn opgenomen zonder een echte tweede draak.
-
-- De tekstzones zijn nog te smal voor de voorgeschreven onderste circa 1/3; per uiteindelijke spread opnieuw uitzetten. Thumbnails zijn geen 3000-px productiespreads.
-- Exact schildembleem, scheepsaanzichten, masten en relatieve groottes per spread controleren; Patrick oogt in 10 te groot en Elke soms te groot naast Oscar.
-- In 08 moet het contact tussen saxofoon en steen duidelijker; 11 toont losgooien niet ondubbelzinnig.
-- Referenties zijn niet door deze generatie vervangen. Conceptvoorstellen blijven ter auteursreview.
-
-
-## Revisie v002
-
-Oscar draagt in alle scènes zijn basisoutfit zonder helm of harnas. In scène 01 staat de oude uitrusting subtiel op een plank. Overige reviewpunten blijven gelden.
-
-[Revisieprompt en bronnen](../../prompts/illustration/storyboard-no-armor-v002.md). De hierboven gelinkte oorspronkelijke prompts documenteren de basisbeelden.
-
-## Scène 13 — revisie v003
-
-Vluchtrichting gecorrigeerd: kinderen naar de camera, door de poort het kasteel in; Zeebries aan de kade en draak achter hen in de haven. [Exacte revisieprompt](../../prompts/illustration/storyboard-scene-13-v003.md). Concept: uitdrukkingen nog aanscherpen naar buiten adem; kinderen ogen nu vrolijk.
-
-## Objectcorrecties scènes 01–04 — v003
-
-Saxofoon en schild in 01 naar achtergrond; scheepsdraak in 02 groen; saxofoon in 04 met schouderband. [Prompt en controle](../../prompts/illustration/storyboard-props-01-04-v003.md). Bij uitwerking saxofoon in 02 terugbrengen: deze is onbedoeld verdwenen in de bewerking.
-
-## Schouderband — scènes 05–16
-
-Nieuwe bladen 05–08 v003, 09–12 v003 en 13–16 v004. In 08 bukt Oscar en zwaait de saxofoon naar de rots. [Prompts en revisies](../../prompts/illustration/storyboard-strap-revision.md). Kleine bevestigingsdetails en het exacte raakpunt in 08 blijven bij de afzonderlijke spreaduitwerking te verfijnen.
-
-## Kreet scène 14 — v005
-
-Auteurskeuze: GRAAAAAAUW! vervangt BRRROOOEM! Patricks verborgen brul blijft de bron. [Prompt](../../prompts/illustration/storyboard-roar-v005.md).

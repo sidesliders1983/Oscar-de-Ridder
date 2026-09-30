@@ -51,7 +51,20 @@ Patrick landt in een ondiepe plas achter de kinderen; ze draaien zich naar het g
 
 ## Voorleestekst — voorstel
 
-PLOENS! ‘Hoorde je dat?’ fluisterde Philijne. Oscar knikte. ‘Misschien een drakenpoot.’ Achter een blad zat iets heel kleins.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Op het eiland liepen ze tussen de planten.\
+Toen klonk achter hen:\
+PLOENS!
+
+**Rechts**
+
+‘Wat was dat?’ fluisterde Philijne.\
+‘Misschien een drakenpoot,’ zei Oscar.\
+Elke keek naar het water.\
+‘Dan heeft hij nu een natte voet.’
 
 ## Voorstellen ter goedkeuring — V4, V5
 

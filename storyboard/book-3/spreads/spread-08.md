@@ -51,7 +51,20 @@ Oscar bukt en reikt naar de grond; de saxofoon zwaait aan zijn schouderband naar
 
 ## Voorleestekst — voorstel
 
-Oscar bukte. Zijn saxofoon zwaaide naar voren. TING! Tegen een steen. Eén groot oog ging open.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Oscar bukte en reikte naar de grond.\
+Zijn saxofoon hing aan het schouderbandje.\
+Het instrument zwaaide naar voren.
+
+**Rechts**
+
+TING!\
+Precies tegen een rots.\
+Oscar hield zijn adem in.\
+Eén groot oog ging open.
 
 ## Voorstellen ter goedkeuring — V7
 

@@ -49,7 +49,20 @@ Een enorm gebulder klinkt vanuit de donkere poortdoorgang; de draak deinst buite
 
 ## Voorleestekst — voorstel
 
-GRAAAAAAUW! Het geluid kwam uit het kasteel. De draak deinsde achteruit. ‘Daar woont een nóg grotere!’
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Toen klonk het vanuit het kasteel:\
+GRAAAAAAUW!\
+De draak bleef stokstijf staan.
+
+**Rechts**
+
+‘Een… een grotere draak?’\
+Hij deed een stap achteruit.\
+En nog één.\
+Voor geen goud ging hij die poort door.
 
 ## Afbakening
 

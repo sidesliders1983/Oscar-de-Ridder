@@ -51,7 +51,20 @@ De kinderen staan bij de ruime grotopening en luisteren; Patrick blijft achter e
 
 ## Voorleestekst — voorstel
 
-Bij een grote opening bleef Oscar staan. Van binnen klonk een diepe zucht. Hrrrrrr. ‘Hier woont iemand,’ zei Elke.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+Hoog in de bergwand zat een opening.\
+Een grote, donkere opening.\
+De kinderen hielden hun adem in.
+
+**Rechts**
+
+Van binnen klonk een diepe zucht.\
+Hrrrrrr.\
+‘Hier woont iemand,’ fluisterde Elke.\
+‘Iemand met een grote neus.’
 
 ## Voorstellen ter goedkeuring — V4, V6
 

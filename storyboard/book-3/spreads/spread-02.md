@@ -51,7 +51,20 @@ Oscar hurkt bij Patrick en houdt een stukje appelflap voor hem; achter hen ligt 
 
 ## Voorleestekst — voorstel
 
-Bij de haven brak Oscar een stukje van zijn appelflap af. ‘Voor jou.’ Patrick hapte. Toen Oscar opstond, hupte er iets achter hem aan.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+In de haven lag De Zeebries klaar.\
+Maar Oscar zag iets kleins op de kade.\
+Een kikker keek naar zijn appelflap.
+
+**Rechts**
+
+Oscar brak een stukje af.\
+‘Alsjeblieft, Patrick.’\
+Hap.\
+Dat smaakte naar meer.
 
 ## Voorstellen ter goedkeuring — V2, V3
 

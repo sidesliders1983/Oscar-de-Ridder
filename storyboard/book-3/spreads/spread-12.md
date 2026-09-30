@@ -49,7 +49,20 @@ De Zeebries vaart naar de haven terwijl de dikke draak laag boven het water acht
 
 ## Voorleestekst — voorstel
 
-Even dachten ze veilig te zijn. Toen klonk boven het water: FLAP, FLAP. ‘Hij komt achter ons aan!’ riep Philijne.
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+De Zeebries gleed over het water.\
+Oscar haalde diep adem.\
+‘Zo. Die kan niet meer bij ons.’
+
+**Rechts**
+
+FLAP. FLAP.\
+Philijne keek achterom.\
+‘Oscar…’\
+Boven de golven vloog een heel dikke draak.
 
 ## Afbakening
 

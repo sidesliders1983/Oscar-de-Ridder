@@ -51,7 +51,20 @@ Draak richt zich brommend op terwijl Oscar hem aanspreekt; kinderen staan bij de
 
 ## Voorleestekst — voorstel
 
-‘Bent u degene die zo buldert?’ vroeg Oscar. De draak snoof. ‘Ik probeerde te SLAPEN!’
+Concept v001, ter bespreking; geen definitieve tekstgoedkeuring.
+
+**Links**
+
+‘Bent u degene die zo buldert?’ vroeg Oscar.\
+De draak keek hem aan.\
+Toen keek hij naar de saxofoon.
+
+**Rechts**
+
+‘Ik probeerde te SLAPEN!’\
+Hij kwam brommend overeind.\
+‘En nu ben ik wakker.’\
+‘Dat zien we,’ piepte Elke.
 
 ## Voorstellen ter goedkeuring — V8
 
