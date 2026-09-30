@@ -15,8 +15,8 @@ import json
 
 ROOT=Path(__file__).parent
 ART=ROOT/'artwork/book-3/concepts/spreads'
-OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v001.pdf'
-QA=ROOT/'tmp/pdfs/book-3-testspreads-v001'
+OUT=ROOT/'output/pdf/boek-3-testspreads-a3-v002.pdf'
+QA=ROOT/'tmp/pdfs/book-3-testspreads-v002'
 QA.mkdir(parents=True,exist_ok=True)
 OUT.parent.mkdir(parents=True,exist_ok=True)
 W,H=420*mm,297*mm
@@ -99,11 +99,31 @@ def main():
             if n not in (14,15,16) or not fallback.exists():
                 raise FileNotFoundError(f'Missing illustration for scene {n}: {art}')
             c.setFillColorRGB(.975,.922,.805); c.rect(0,0,W,H,fill=1,stroke=0)
-            c.drawImage(str(fallback),0,TEXT_H,width=W,height=H-TEXT_H)
+            # Fade the storyboard crop to transparency so it merges into the paper below.
+            from PIL import Image
+            fade=Image.open(fallback).convert('RGBA')
+            px=fade.load(); fw,fh=fade.size; band=max(1,int(fh*.20))
+            for yy in range(fh-band,fh):
+                t=(yy-(fh-band))/band
+                smooth=t*t*(3-2*t)
+                alpha=round(255*(1-smooth))
+                for xx in range(fw):
+                    rr,gg,bb,_=px[xx,yy]; px[xx,yy]=(rr,gg,bb,alpha)
+            fadepath=QA/f'spread-{n:02d}-fade.png';fade.save(fadepath)
+            c.drawImage(str(fadepath),0,TEXT_H,width=W,height=H-TEXT_H,mask='auto')
         else:
             c.drawImage(str(art),0,0,width=W,height=H,mask='auto')
-        c.setFillColorRGB(.975,.922,.805)
-        c.rect(0,0,W,TEXT_H,fill=1,stroke=0)
+        # A translucent cream wash softens the existing watercolor paper and fades
+        # the large original corner flowers without creating a straight image edge.
+        c.saveState(); c.setFillColorRGB(.975,.922,.805)
+        step=.5*mm; fade_len=36*mm; count=int(fade_len/step)
+        for i in range(count):
+            # Strongest at the bottom, disappearing gradually toward the art.
+            t=1-i/max(1,count-1); alpha=.82*t*t*(3-2*t)
+            c.setFillAlpha(alpha)
+            y=i*step
+            c.rect(0,y,W,step+.15*mm,fill=1,stroke=0)
+        c.restoreState()
         flowers(c,8*mm,3*mm); flowers(c,W-10*mm,3*mm)
         draw_block(c,spreads[n]['left'],25*mm,89*mm,165*mm)
         draw_block(c,spreads[n]['right'],230*mm,89*mm,165*mm)
