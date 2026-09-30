@@ -1,0 +1,15 @@
+# Familie en bondgenoten — v001
+
+Status: CONCEPT. Ingebouwde image_gen, 29 september 2026. Model/seed niet beschikbaar. Output: artwork/book-3/concepts/characters/book-3-side-characters-v001.png. Geen actieve canonreferenties vervangen.
+
+Referenties in volgorde:
+C:/CodexWorkspaces/OscarDeRidder/artwork/book-3/concepts/characters/book-3-charactersheet-v001.png
+C:/CodexWorkspaces/OscarDeRidder/references/characters/elke/elke_sheet_v001.jpg
+C:/CodexWorkspaces/OscarDeRidder/references/previous-books/book-1/book-1-ensemble-patrick-teaser-v001.jpg
+
+Review: acht gevraagde menselijke bijfiguren aanwezig, voor-/zijaanzicht en expressie. Papa Jildo gebaseerd op gelabelde boek-1-ensemblebron, nog geen definitieve sheet. Controleer kostuumdetails en karaktergelijkenis voor goedkeuring. 1536 × 1024 concept, geen drukbestand. Geen verhaalrollen toegevoegd.
+
+## Exacte prompt
+
+Create a companion CHARACTER SHEET for Dutch picture book OSCAR DE KOENE RIDDER, matching reference 1's cream watercolor paper, black felt-tip lines, warm gentle palette, expressive friendly faces and neatly labeled reference-board layout. Landscape high resolution. Title "OSCAR DE KOENE RIDDER", subtitle "BOEK 3 — FAMILIE & BONDGENOTEN", small "CONCEPT v001". Eight spacious cells in four columns by two rows. EXACTLY these 8 characters, each with full-body front and side view plus one small expressive head. Preserve identities and costumes from authoritative reference 2 (the active combined sheet): PAKE JASPER elderly white mustache green flat cap orange shirt blue overalls green boots; MAMA SILVIE brown updo red kerchief patterned red dress cream apron, appelflap tray; OOM ROEL slim brown-haired bespectacled clean-shaven handyman in blue workwear tool belt; OPA WILBERT elderly white-haired mustache round glasses cream shirt ochre vest brown plaid trousers golden saxophone; KONING gray hair mustache beard golden crown blue gold royal outfit red ermine cloak; KONINGIN curly gray hair small gold crown purple gold gown ermine cloak; PRINSES ELSA pale blond braid ice-blue gown, same small open dragon-tooth box if included. Eighth PAPA JILDO must come ONLY from reference 3's explicitly labeled Papa Jildo between Oscar and Mama Silvie: brown tousled hair, round glasses, full brown beard, blue overalls, holds round clear aquarium. Do not confuse him with Oom Roel; for Oom Roel use authoritative reference 2, not conflicting ensemble. Papa Jildo is a concept extrapolation from his visible source; no new costume details. Names as given, short labels "Vooraanzicht", "Zijaanzicht", "Expressie". No ages or invented story roles. No children, frog, cow, dragon or gorillas. Do not label approved. Canon basis AGENTS.md, canon/visual-style.md, canon/characters/2026-09-29-reference-decision.md and references/characters/README.md. This is a model sheet not a story spread; no scenery or lower-third text requirement. Spacious professional character development sheet, same person across each view, full feet visible, simple background.
+

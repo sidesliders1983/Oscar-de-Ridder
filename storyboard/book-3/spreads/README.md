@@ -1,3 +1,3 @@
 # Spreads boek 3
 
-Nog geen spreads vastgesteld. Maak na auteursbesluit één spread-NN.md per spread uit [de template](../../templates/spread-template.md). Behoud versies via Git en koppel elke beeldpoging aan de gebruikte specificatieversie. Het aantal bestanden bepaalt niet zelfstandig het spreadaantal.
+[Conceptstoryboard v002](../storyboard-v002.md): 16 spreads. Terugreis en kasteelclimax volgens auteursbesluit; tekst en enscenering ter review.

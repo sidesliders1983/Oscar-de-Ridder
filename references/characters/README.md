@@ -32,3 +32,4 @@ Per bevestigd personage is precies één sheet actief. Samengestelde bronnen zij
 Alle bronnen, kopieën, herkomst en hashes staan in [de inventaris](../asset-inventory.csv). Bella is expliciet bevestigd als het koe-paard; haar eerdere placeholder is vervangen door een actieve referentie.
 
 Nieuwe varianten blijven CONCEPT. Vervanging vereist expliciete auteursgoedkeuring, een nieuwe versie en aanpassing van deze enige pointer; oude versies blijven behouden. Andere figuren op samengestelde sheets overrulen hun eigen actieve referenties niet.
+Voor Papa Jildo geldt de expliciete [auteurscorrectie: geen baard of snor](../../canon/characters/papa-jildo.md), ook waar historische bronnen gezichtshaar tonen.

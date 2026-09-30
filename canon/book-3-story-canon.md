@@ -62,3 +62,7 @@ Voor de achtervolging is een compositie ontwikkeld met een laag camerastandpunt 
 - Definitief aantal spreads en tekst per spread
 
 Deze vragen mogen niet door een agent zelfstandig als canon worden ingevuld.
+
+## Bevestigde uitwerking terugreis
+
+De achtervolging gaat eerst over land op het eiland en vervolgens vliegend achter De Zeebries aan over het water. Bij het kasteel klinkt Patricks brul van achter/bij de poort. De draak denkt dat er binnen een nog grotere draak zit en vlucht. Patrick blijft de onbedoelde held. Zie [auteursbesluit](locations/2026-09-29-return-chase.md). Exacte handelingen en dialoog blijven storyboardvoorstellen.

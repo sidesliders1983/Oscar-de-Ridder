@@ -1,0 +1,17 @@
+# Locatiestudies v001
+
+Status: CONCEPT. Ingebouwde image_gen, 29 september 2026; model/seed niet beschikbaar.
+Bronbeeld: references/locations/book-2-ending/het-laatste-briefje-v001.jpg.
+Output: artwork/book-3/concepts/locations/book-3-location-studies-v001.png.
+
+Vier studies: kasteelkamer, uitzicht, vulkaansilhouet en grotvoorstel. Visueel gecontroleerd: geen personages of verzonnen reisverbinding, grot gemarkeerd als voorstel. Details van grot en landschap blijven exploratief. 1536 × 1024; geen drukklare spread. Canonieke locatiekeuze afzonderlijk vastgelegd in canon/locations/dragon-cave.md.
+
+## Exacte prompt
+
+Create a landscape concept LOCATION SKETCH SHEET for children's picture book "OSCAR DE KOENE RIDDER — GEBULDER IN DE BERGEN". Use attached book-2 ending image as the strict continuity reference. Title "BOEK 3 — LOCATIESTUDIES", small "CONCEPT v001". Three spacious watercolor sketches on cream paper, one large upper panorama and two smaller bottom studies, thin subtle separators and short Dutch labels. NO characters, no invented events, no dragon, no cave, no boats, no bridge, no route joining castle and volcano.
+Upper panel label "UITZICHT OP DE VULKAAN": recreate recognizable view through the same broad stone arch, blue curtains with gold fleurs-de-lis framing view, tropical coastal palms and flowers in foreground, broad blue water separating viewpoint and steep dark volcanic island, asymmetrical craggy cone with red glowing summit, thick dark plume. Preserve spatial relationship and silhouette from source. Moonlit twilight, exciting not terrifying, simplify lightning.
+Lower left "KASTEELKAMER": study the same cozy stone chamber, wooden table, old papers, open treasure chest, lantern, blue banner with gold crown, wooden shield with green dragon, book shelf and globe. Match original room design without children. This is continuity study, no new scene or story decision.
+Lower right "VULKAAN — SILHOUET": closer study from same viewing direction showing same jagged volcanic profile, green tropical vegetation along rocky shore, dark stone and subtle red summit glow, softened smoky sky; avoid inventing hidden far-side features, entrances or paths.
+Style: sketch-like minimalist watercolor with black felt-tip lines, loose washes, warm soft colors, selective detailed foreground and 30–50% softer less saturated distant background. More breathing space and less dense detail than source. Faithful location identity, no cover typography, no explanatory paragraphs. This is a reference board, not a finished book spread, no need for bottom third text zone. Based on AGENTS.md, canon/visual-style.md and canon/book-3-story-canon.md: continuity with book-2 ending; exact route and dragon sleeping location remain unresolved. Do not label canonical or approved.
+AUTHOR UPDATE: The dragon sleeps in a cave in the volcano wall. Incorporate a FOURTH separate small concept study labeled 'DRAKENGROT — VOORSTEL': a broad rounded natural cave entrance in dark volcanic rock with a sheltered roomy floor inside suitable for the round dragon, soft daylight entering, no characters, no treasure, no lava pool, no invented objects. Exact cave shape is exploratory concept, not established canon. Rebalance sheet into 2x2 spacious panels, keep other three studies and labels. The earlier instruction 'no cave' and 'three panels' are superseded only for this fourth panel. Do not establish travel route or a land bridge across water. Cave location in volcano wall is now explicitly confirmed, detailed design remains concept.
+

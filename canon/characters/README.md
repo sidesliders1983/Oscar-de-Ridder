@@ -7,3 +7,7 @@ Definitieve beelden uitsluitend aanwijzen via [het centrale characterregister](.
 [Leeftijdsbesluit van de auteur, 29 september 2026](2026-09-29-age-decision.md): Oscar 6 jaar, Elke twee jaar jonger.
 
 [Actieve referenties en Bella: auteursbesluit](2026-09-29-reference-decision.md).
+
+[Papa Jildo: geen baard of snor](papa-jildo.md) — expliciete auteurscorrectie.
+
+[Elke: blonde ingevlochten zijvlechten](elke-hair.md).
