@@ -20,7 +20,7 @@ De bladversies verschillen door gerichte revisies. Blad 13–16 is bestand v006;
 
 ## Spreads 01–04
 
-![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v011.png)
+![Spreads 1–4](../../artwork/book-3/concepts/storyboard/board-01-04-v012.png)
 
 ### 01 — Het briefje bromt na
 
@@ -219,7 +219,7 @@ Boven de golven vloog een heel dikke draak!
 
 ## Spreads 13–16
 
-![Spreads 13–16](../../artwork/book-3/concepts/storyboard/board-13-16-v007.png)
+![Spreads 13–16](../../artwork/book-3/concepts/storyboard/board-13-16-v008.png)
 
 ### 13 — Naar de poort!
 
@@ -281,3 +281,8 @@ Patrick knipperde.\
 ‘Kwaak.’\
 ‘Afgesproken,’ zei Elke.\
 ‘Maar dan wel een beetje zachter, alsjeblieft.’
+
+
+### Beeldcorrectie — uniforme brul
+
+In de illustraties van scènes 01 (bij de drakenberg), 14 (vanuit de poort) en 15 (Patrick) staat exact **GRAAAAUW!**. Dit legt de verbinding met Patrick als bron. Auteursbesluit verwerkt als concept; voorleestekst niet gewijzigd. Zie [promptlog](../../prompts/illustration/storyboard-unified-roar-v001.md).

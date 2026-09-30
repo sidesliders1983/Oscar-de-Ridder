@@ -45,7 +45,7 @@ print:
 
 Elke houdt haar hand achter haar oor. Saxofoon en schild staan tegen de achterwand; tafel blijft rustiger.
 
-Nieuw concept: [board-01-04-v011.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v011.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-01-04-v012.png](../../../artwork/book-3/concepts/storyboard/board-01-04-v012.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
@@ -105,3 +105,8 @@ Nog geen goedkeuring of gegenereerd artwork voor deze spread. Controleer eerst v
 
 
 Boek 3: Oscar draagt geen ketelharnas of vissenkomhelm. Rode tuniek, blauwe broek, bruine laarsjes, houten draakschild en gouden saxofoon blijven. Helm en harnas mogen uitsluitend subtiel als achtergrondverwijzing in het kasteel terugkomen.
+
+
+### Beeldcorrectie — uniforme brul
+
+In de illustraties van scènes 01 (bij de drakenberg), 14 (vanuit de poort) en 15 (Patrick) staat exact **GRAAAAUW!**. Dit legt de verbinding met Patrick als bron. Auteursbesluit verwerkt als concept; voorleestekst niet gewijzigd. Zie [promptlog](../../../prompts/illustration/storyboard-unified-roar-v001.md).

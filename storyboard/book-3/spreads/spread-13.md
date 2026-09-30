@@ -45,7 +45,7 @@ print:
 
 Kinderen lopen van de afgemeerde Zeebries door de poort het kasteel in; draak achter hen in de haven.
 
-Nieuw concept: [board-13-16-v007.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v007.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
+Nieuw concept: [board-13-16-v008.png](../../../artwork/book-3/concepts/storyboard/board-13-16-v008.png). Nog geen definitieve artworkgoedkeuring. Deze revisie gaat vóór oudere compositie-/reviewnotities hieronder.
 
 ### Eerdere enscenering (historisch)
 
@@ -93,3 +93,8 @@ Exacte beeldreferenties en generatieprompt vóór illustratie vastleggen. Nog ge
 ## Saxofoonband — auteursbesluit 30 september 2026
 
 Oscar draagt de saxofoon aan een smal bruin schouderbandje, zichtbaar verbonden met het instrument. Tijdens rennen mag hij hem met een hand stabiliseren; bij bukken zwaait hij onder zwaartekracht naar voren. Schild heeft afzonderlijke ondersteuning. Zie canon/characters/oscar-saxophone-strap.md.
+
+
+### Beeldcorrectie — uniforme brul
+
+In de illustraties van scènes 01 (bij de drakenberg), 14 (vanuit de poort) en 15 (Patrick) staat exact **GRAAAAUW!**. Dit legt de verbinding met Patrick als bron. Auteursbesluit verwerkt als concept; voorleestekst niet gewijzigd. Zie [promptlog](../../../prompts/illustration/storyboard-unified-roar-v001.md).
